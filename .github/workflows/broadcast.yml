@@ -2,6 +2,69 @@ name: broadcast
 
 # 台本（episodes/*.json）が main に置かれたら、または手動実行されたら、
 # 声の生成→タイミング付け→公開（gh-pages）まで自動で行う。
+# v2: ffmpeg を明示インストール、失敗時はログ末尾を Issue に残す。
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "episodes/**"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: broadcast
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and TTS
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts
+
+      - name: Build episodes that have no timings yet
+        run: |
+          set -o pipefail
+          built=0
+          for f in episodes/*.json; do
+            if ! grep -q '"lines_timed"' "$f"; then
+              python3 tools/build_episode.py "$f" 2>&1 | tee -a build.log
+              built=1
+            fi
+          done
+          echo "built=$built" >> "$GITHUB_ENV"
+
+      - name: Commit timings back to main
+        if: env.built == '1'
+        run: |
+          git config user.name "ota-radio-bot"
+          git config user.email "ota-radio-bot@users.noreply.github.com"
+          git add episodes episodes.json
+          git commit -m "broadcast: add timings [skip ci]"
+          git push
+
+      - name: Publish to GitHub Pages (gh-pages)
+        run: bash tools/publish.sh
+
+      - name: Report failure as an issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          { echo "自動放送の実行が失敗しました。ログ末尾："; echo; echo '```'; tail -c 2500 build.log 2>/dev/null || echo "(build.log なし)"; echo '```'; } > issue.md
+          gh issue create --title "broadcast failed $(date +%F-%H%M)" --body-file issue.md || truename: broadcast
+
+# 台本（episodes/*.json）が main に置かれたら、または手動実行されたら、
+# 声の生成→タイミング付け→公開（gh-pages）まで自動で行う。
 on:
   workflow_dispatch:
   push:
