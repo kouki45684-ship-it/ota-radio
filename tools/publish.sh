@@ -8,6 +8,8 @@ cd "$(git rev-parse --show-toplevel)"
 read -r DIR KEEP < <(python3 -c 'import json; a = json.load(open("station.json")).get("audio", {}); print(a.get("dir", "audio"), a.get("keep_days", 30))')
 CUT=$(python3 -c "import datetime; print((datetime.date.today() - datetime.timedelta(days=$KEEP)).isoformat())")
 REMOTE=$(git remote get-url origin)
+# CI（GitHub Actions）では checkout の認証を引き継ぐ（無い環境では空のまま）
+AUTH_HEADER=$(git config --local --get http.https://github.com/.extraheader || true)
 NAME=$(git config user.name || echo myradio); EMAIL=$(git config user.email || echo myradio@users.noreply.github.com)
 
 TMP=$(mktemp -d); trap 'rm -rf "$TMP"' EXIT
@@ -25,6 +27,7 @@ if "$PY" -c "import PIL" 2>/dev/null; then "$PY" tools/share.py "$TMP" --all --f
 touch "$TMP/.nojekyll"                           # serve files as they are
 cd "$TMP"
 git init -q -b gh-pages
+if [ -n "$AUTH_HEADER" ]; then git config --local http.https://github.com/.extraheader "$AUTH_HEADER"; fi
 git add -A -f                                     # the audio too (the copied .gitignore keeps it off main only)
 git -c user.name="$NAME" -c user.email="$EMAIL" commit -q -m "publish $(date +%F)"
 git push -q -f "$REMOTE" gh-pages
