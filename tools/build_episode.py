@@ -23,7 +23,11 @@ GAP_PART = 0.7
 
 
 def run(cmd):
-    subprocess.run(cmd, check=True, capture_output=True, text=True)
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode != 0:
+        print(r.stdout, file=sys.stderr)
+        print(r.stderr, file=sys.stderr)
+        raise subprocess.CalledProcessError(r.returncode, cmd)
 
 
 def duration(path):
@@ -41,8 +45,19 @@ def make_silence(path, seconds):
 
 
 def tts(text, path):
-    run(["edge-tts", "--voice", VOICE, "--text", text,
-         "--write-media", path])
+    import time
+    last = None
+    for attempt in range(3):
+        try:
+            run(["edge-tts", "--voice", VOICE, "--text", text,
+                 "--write-media", path])
+            return
+        except subprocess.CalledProcessError as e:
+            last = e
+            print(f"edge-tts retry {attempt + 1} failed: {e}",
+                  file=sys.stderr)
+            time.sleep(5 * (attempt + 1))
+    raise last
 
 
 def main():
