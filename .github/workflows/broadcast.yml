@@ -1,0 +1,51 @@
+name: broadcast
+
+# 台本（episodes/*.json）が main に置かれたら、または手動実行されたら、
+# 声の生成→タイミング付け→公開（gh-pages）まで自動で行う。
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "episodes/**"
+
+permissions:
+  contents: write
+
+concurrency: broadcast
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install TTS
+        run: pip install edge-tts
+
+      - name: Build episodes that have no timings yet
+        run: |
+          built=0
+          for f in episodes/*.json; do
+            if ! grep -q '"lines_timed"' "$f"; then
+              python3 tools/build_episode.py "$f"
+              built=1
+            fi
+          done
+          echo "built=$built" >> "$GITHUB_ENV"
+
+      - name: Commit timings back to main
+        if: env.built == '1'
+        run: |
+          git config user.name "ota-radio-bot"
+          git config user.email "ota-radio-bot@users.noreply.github.com"
+          git add episodes episodes.json
+          git commit -m "broadcast: add timings [skip ci]"
+          git push
+
+      - name: Publish to GitHub Pages (gh-pages)
+        run: bash tools/publish.sh
