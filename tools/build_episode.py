@@ -3,9 +3,10 @@
 
 使い方: python3 tools/build_episode.py episodes/<YYYY-MM-DD>-ja.json
 
-- 文ごとに edge-tts で mp3 を作り、ffprobe で長さを測る
-- 文の間に短い無音（文間0.35秒／パート間0.7秒）を挟んで連結し、
-  audio/<日付>-ja.mp3 を作る
+- 文ごとに edge-tts で mp3 を作り、無圧縮の WAV に直してから長さを測る
+  （mp3 のまま測ってつなぐと、部品ごとの余白が積み重なって字幕がずれるため）
+- 文の間に短い無音（文間0.35秒／パート間0.7秒）を挟んで WAV のまま連結し、
+  最後に 1 回だけ mp3 にして audio/<日付>-ja.mp3 を作る
 - 台本に lines_timed / segments / seconds / made_at を書き戻し、
   episodes.json の先頭にこの回を登録する
 - 声は差し替え可能：環境変数 TTS_VOICE（既定 ja-JP-NanamiNeural）
@@ -38,10 +39,18 @@ def duration(path):
     return float(out)
 
 
+RATE = "24000"   # 部品はすべてこの形式の WAV（16bit・モノラル）にそろえる
+
+
 def make_silence(path, seconds):
     run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi",
-         "-i", "anullsrc=r=24000:cl=mono", "-t", str(seconds),
-         "-codec:a", "libmp3lame", "-b:a", "48k", path])
+         "-i", f"anullsrc=r={RATE}:cl=mono", "-t", str(seconds),
+         "-codec:a", "pcm_s16le", path])
+
+
+def to_wav(src, dst):
+    run(["ffmpeg", "-y", "-v", "error", "-i", src,
+         "-ar", RATE, "-ac", "1", "-codec:a", "pcm_s16le", dst])
 
 
 def tts(text, path):
@@ -80,7 +89,7 @@ def main():
         sys.exit("no spoken lines")
 
     tmp = tempfile.mkdtemp()
-    pieces = []          # 連結する mp3 の並び
+    pieces = []          # 連結する WAV の並び
     timed = []           # lines_timed
     segments = []        # segments
     t = 0.0
@@ -90,7 +99,7 @@ def main():
         key = (kind, idx)
         if prev_key is not None:
             gap = GAP_LINE if key == prev_key else GAP_PART
-            sil = os.path.join(tmp, f"gap{n}.mp3")
+            sil = os.path.join(tmp, f"gap{n}.wav")
             make_silence(sil, gap)
             pieces.append(sil)
             t += gap
@@ -101,8 +110,10 @@ def main():
                                  "end": round(timed[-1]["end"], 3)})
             seg_start = t
             prev_key = key
-        p = os.path.join(tmp, f"line{n}.mp3")
-        tts(ln["say"], p)
+        raw = os.path.join(tmp, f"line{n}.mp3")
+        tts(ln["say"], raw)
+        p = os.path.join(tmp, f"line{n}.wav")
+        to_wav(raw, p)
         d = duration(p)
         pieces.append(p)
         timed.append({"start": round(t, 3), "end": round(t + d, 3),
