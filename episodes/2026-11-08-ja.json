@@ -1,0 +1,77 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-08",
+ "title": "キーウへの弾道ミサイル攻撃ほか",
+ "opening": [
+  {"say": "おたラジオです。十一月八日日曜日、おはようございます。", "show": "おたラジオです。11月8日日曜日、おはようございます。"},
+  {"say": "今日はウクライナ情勢のニュースを三本、お届けします。", "show": "今日はウクライナ情勢のニュースを3本、お届けします。"}
+ ],
+ "news": [
+  {
+   "label": "ロシアがキーウに弾道ミサイル攻撃",
+   "points": [
+    "6日夜から7日にかけて、複数波の攻撃",
+    "空軍はミサイル4発とドローン149機を迎撃と発表",
+    "ゼレンスキー大統領はミサイル36発と説明",
+    "北朝鮮製ミサイルの使用の可能性は予備的な見方"
+   ],
+   "lines": [
+    {"say": "まず、キーウへの攻撃です。六日の夜から七日にかけて、弾道ミサイルとドローンが飛来したと伝えられています。", "show": "まず、キーウへの攻撃です。6日の夜から7日にかけて、弾道ミサイルとドローンが飛来したと伝えられています。"},
+    {"say": "ウクライナ空軍は、ミサイル四発とドローン百四十九機を撃墜または無力化したと発表しています。", "show": "ウクライナ空軍は、ミサイル4発とドローン149機を撃墜または無力化したと発表しています。"},
+    {"say": "一方、ゼレンスキー大統領は、ミサイルは三十六発だったと述べています。", "show": "一方、ゼレンスキー大統領は、ミサイルは36発だったと述べています。"},
+    {"say": "空軍はミサイルの総数を示しておらず、迎撃率は公式には分かりません。", "show": "空軍はミサイルの総数を示しておらず、迎撃率は公式には分かりません。"},
+    {"say": "大統領は、北朝鮮製のケーエヌ二十三が使われた可能性にも触れましたが、予備的な見方だと伝えられています。", "show": "大統領は、北朝鮮製のKN-23が使われた可能性にも触れましたが、予備的な見方だと伝えられています。"}
+   ],
+   "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
+   "link": {
+    "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
+    "title": "Russian ballistic missiles slam Kyiv, damage Northern Bridge, injure at least 6 people",
+    "site": "The Kyiv Independent"
+   }
+  },
+  {
+   "label": "ブリャンスク州でミサイル発射機を攻撃と発表",
+   "points": [
+    "イスカンデルMの発射機2基を攻撃",
+    "防空システム、パーンツィリS1も攻撃",
+    "ウクライナ軍参謀本部の発表のみ、独立した確認なし"
+   ],
+   "lines": [
+    {"say": "続いて、ロシア西部のブリャンスク州の件です。", "show": "続いて、ロシア西部のブリャンスク州の件です。"},
+    {"say": "ウクライナ軍の参謀本部は、イスカンデルMの発射機二基を攻撃したと発表しています。", "show": "ウクライナ軍の参謀本部は、イスカンデルMの発射機2基を攻撃したと発表しています。"},
+    {"say": "防空システムのパーンツィリエスワンも攻撃したとしています。", "show": "防空システムのパーンツィリS1も攻撃したとしています。"},
+    {"say": "被害の程度は確認中で、報道機関による独自の確認はまだありません。", "show": "被害の程度は確認中で、報道機関による独自の確認はまだありません。"}
+   ],
+   "url": "https://kyivindependent.com/ukraine-strikes-russian-missile-launchers-air-defense-systems-in-bryansk-oblast-general-staff-says/",
+   "link": {
+    "url": "https://kyivindependent.com/ukraine-strikes-russian-missile-launchers-air-defense-systems-in-bryansk-oblast-general-staff-says/",
+    "title": "Ukraine strikes Russian missile launchers, air defense systems in Bryansk Oblast, General Staff says",
+    "site": "The Kyiv Independent"
+   }
+  },
+  {
+   "label": "地上ロボットの任務、10月は過去最多",
+   "points": [
+    "10月の任務は31,398件で月間過去最多",
+    "1月は7,511件で、4倍超",
+    "数字は国防省の集計のみ"
+   ],
+   "lines": [
+    {"say": "最後は、地上ロボットの話題です。", "show": "最後は、地上ロボットの話題です。"},
+    {"say": "ウクライナ国防省は、無人の地上車両の十月の任務が三万千三百九十八件で、過去最多になったと発表しています。", "show": "ウクライナ国防省は、無人の地上車両の10月の任務が31,398件で、過去最多になったと発表しています。"},
+    {"say": "一月は七千五百十一件で、四倍を超えたことになります。", "show": "1月は7,511件で、4倍を超えたことになります。"},
+    {"say": "ただし、この数字は国防省の集計によるもので、第三者の確認は伝えられていません。", "show": "ただし、この数字は国防省の集計によるもので、第三者の確認は伝えられていません。"}
+   ],
+   "url": "https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/",
+   "link": {
+    "url": "https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/",
+    "title": "Ukraine's ground drones complete over 30,000 missions in record month for robot warfare",
+    "site": "The Kyiv Independent"
+   }
+  }
+ ],
+ "closing": [
+  {"say": "以上、おたラジオでした。よい一日を。", "show": "以上、おたラジオでした。よい一日を。"}
+ ]
+}
