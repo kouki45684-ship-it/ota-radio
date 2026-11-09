@@ -1,1 +1,9 @@
-IyDjg4bjgrnjg4jjg6njgrjjgqoKCkFJ44GoM0Tjga7msJfjgavjgarjgovjg4vjg6Xjg7zjgrnjgpLjgIHnn63jgY/oqq3jgb/kuIrjgZLjgovoh6rliIbnlKjjg6njgrjjgqrjgafjgZnjgIIKCi0g5pS+6YCB44Oa44O844K477yaaHR0cHM6Ly9rb3VraTQ1Njg0LXNoaXAtaXQuZ2l0aHViLmlvL290YS1yYWRpby8KLSDlj7DmnKzvvIhgZXBpc29kZXMvYCDjga5KU09O77yJ44KS572u44GP44Go44CBR2l0SHViIEFjdGlvbnMg44GM6Z+z5aOw55Sf5oiQ44O744K/44Kk44Of44Oz44Kw5LuY44GR44O75YWs6ZaL44G+44Gn6Ieq5YuV44Gn6KGM44GE44G+44GZCi0g5aOw77ya6Ieq5YuV6Kqt44G/5LiK44GS77yITWljcm9zb2Z0IEVkZ2UgVFRTIC8gTmFuYW1p77yJ44CC44Kt44Oj44Op44Kv44K/44O844GvIEFJIOeUn+aIkOeUu+WDj+OBp+OBmQoK44GT44Gu5bGA44GvIFtteXJhZGlvXShodHRwczovL2dpdGh1Yi5jb20vbW9ub3JhZGlvMTAyL215cmFkaW8pIOODhuODs+ODl+ODrOODvOODiOOBp+S9nOOCieOCjOOBpuOBhOOBvuOBme+8iOODl+ODreOCsOODqeODoO+8mk1JVOOAgeODhuODs+ODl+ODrOODvOODiOOBruWPsOacrO+8mkNDMO+8ieOAggo=
+# テストラジオ
+
+AIと3Dの気になるニュースを、短く読み上げる自分用ラジオです。
+
+- 放送ページ：https://kouki45684-ship-it.github.io/ota-radio/
+- 台本（`episodes/` のJSON）を置くと、GitHub Actions が音声生成・タイミング付け・公開まで自動で行います
+- 声：自動読み上げ（Microsoft Edge TTS / Nanami）。キャラクターは AI 生成画像です
+
+この局は [myradio](https://github.com/monoradio102/myradio) テンプレートで作られています（プログラム：MIT、テンプレートの台本：CC0）。
