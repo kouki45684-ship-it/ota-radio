@@ -1,0 +1,233 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-12",
+ "title": "ドローン123機などでの夜間攻撃ほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月十二日木曜日、おはようございます。",
+   "show": "おたラジオです。11月12日木曜日、おはようございます。"
+  },
+  {
+   "say": "今日は軍事のニュースを四本、お届けします。",
+   "show": "今日は軍事のニュースを4本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "ドローン123機などで夜間攻撃、94を撃墜と発表",
+   "points": [
+    "弾道ミサイルやツィルコンも使用",
+    "94を撃墜・無力化と空軍発表",
+    "17か所で着弾"
+   ],
+   "lines": [
+    {
+     "say": "まず、ロシアによる夜間の攻撃です。",
+     "show": "まず、ロシアによる夜間の攻撃です。"
+    },
+    {
+     "say": "ウクライナ空軍は、十一日の夜六時から十二日朝にかけて攻撃を受けたと発表しています。",
+     "show": "ウクライナ空軍は、11日18時から12日朝にかけて攻撃を受けたと発表しています。"
+    },
+    {
+     "say": "ロシアは、イスカンデル・エムなどの弾道ミサイルを使ったということです。",
+     "show": "ロシアは、イスカンデルMなどの弾道ミサイルを使ったということです。"
+    },
+    {
+     "say": "対艦ミサイルのツィルコンも、使われたとしています。",
+     "show": "対艦ミサイルの「ツィルコン」も、使われたとしています。"
+    },
+    {
+     "say": "ドローンは百二十三機で、そのうち七十三機はジェット式のシャヘドでした。",
+     "show": "ドローンは123機で、そのうち73機はジェット式のシャヘドでした。"
+    },
+    {
+     "say": "空軍は、このうち九十四を撃墜、または無力化したと発表しています。",
+     "show": "空軍は、このうち94を撃墜、または無力化したと発表しています。"
+    },
+    {
+     "say": "十七か所で着弾し、十八か所で残骸が落ちたとしています。",
+     "show": "17か所で着弾し、18か所で残骸が落ちたとしています。"
+    },
+    {
+     "say": "首都キーウでは、ロイター通信の記者が爆発音を聞いています。",
+     "show": "首都キーウでは、ロイター通信の記者が爆発音を聞いています。"
+    },
+    {
+     "say": "西部のリウネ州では、エネルギー施設などに被害が出たと地元当局が伝えています。",
+     "show": "西部リウネ州では、エネルギー施設などに被害が出たと地元当局が伝えています。"
+    },
+    {
+     "say": "撃墜の数は空軍の発表で、被害の全体は独立して確かめられていません。",
+     "show": "撃墜の数は空軍の発表で、被害の全体は確かめられていません。"
+    }
+   ],
+   "url": "https://en.interfax.com.ua/news/general/1235191.html",
+   "link": {
+    "url": "https://en.interfax.com.ua/news/general/1235191.html",
+    "title": "Air defense downs or suppresses 94 of 123 Russian drones, hits recorded at 17 locations – Air Force",
+    "site": "Interfax-Ukraine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg"
+   }
+  },
+  {
+   "label": "モスクワへ向かうドローン5機を撃墜と市長",
+   "points": [
+    "ロストフ州などでも撃墜の報告",
+    "米特使がモスクワ入り",
+    "プーチン氏と会談の予定"
+   ],
+   "lines": [
+    {
+     "say": "続いて、ロシアの首都モスクワです。",
+     "show": "続いて、ロシアの首都モスクワです。"
+    },
+    {
+     "say": "モスクワのソビャーニン市長は十二日、首都へ向かうドローン五機を撃墜したと発表しました。",
+     "show": "モスクワのソビャーニン市長は12日、ドローン5機を撃墜したと発表しました。"
+    },
+    {
+     "say": "ロストフ州やトゥーラ州などでも、撃墜の報告があったと伝えられています。",
+     "show": "ロストフ州やトゥーラ州などでも、撃墜の報告があったと伝えられています。"
+    },
+    {
+     "say": "この日は、アメリカのウィトコフ特使とクシュナー氏がモスクワに着きました。",
+     "show": "この日は、米国のウィトコフ特使とクシュナー氏がモスクワに着きました。"
+    },
+    {
+     "say": "プーチン大統領と、会談する予定だということです。",
+     "show": "プーチン大統領と、会談する予定だということです。"
+    },
+    {
+     "say": "前の日には、アブダビでの二日間の和平協議が終わっていました。",
+     "show": "前の日には、アブダビでの2日間の和平協議が終わっていました。"
+    },
+    {
+     "say": "捕虜の交換では合意したものの、領土などの大きな問題は残ったとされます。",
+     "show": "捕虜交換では合意したものの、領土などの大きな問題は残ったとされます。"
+    },
+    {
+     "say": "和平協議の傍らで、首都どうしへの攻撃が続く形になりました。",
+     "show": "和平協議の傍らで、首都どうしへの攻撃が続く形になりました。"
+    },
+    {
+     "say": "撃墜の数はロシア側の発表で、独立した確認はありません。",
+     "show": "撃墜の数はロシア側の発表で、独立した確認はありません。"
+    }
+   ],
+   "url": "https://www.republicworld.com/amp/world-news/russia-ukraine-trade-attacks-on-capitals-as-us-envoys-witkoff-kushner-arrive-in-moscow-for-putin-talks-2026-11-12-140889",
+   "link": {
+    "url": "https://www.republicworld.com/amp/world-news/russia-ukraine-trade-attacks-on-capitals-as-us-envoys-witkoff-kushner-arrive-in-moscow-for-putin-talks-2026-11-12-140889",
+    "title": "Russia, Ukraine Trade Attacks on Capitals as US Envoys Witkoff, Kushner Arrive in Moscow for Putin Talks",
+    "site": "Republic World",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sergey_Sobyanin_5_June_2013.jpeg"
+   }
+  },
+  {
+   "label": "エルビット、PULSを約2億6千万ドルで受注",
+   "points": [
+    "欧州のNATO加盟国から",
+    "契約期間は5年",
+    "国名や基数は非公表"
+   ],
+   "lines": [
+    {
+     "say": "三本目は、イスラエルの防衛企業の受注です。",
+     "show": "3本目は、イスラエルの防衛企業の受注です。"
+    },
+    {
+     "say": "エルビット・システムズは十二日、大きな契約を受けたと発表しました。",
+     "show": "エルビット・システムズは12日、大きな契約を受けたと発表しました。"
+    },
+    {
+     "say": "欧州のNATO加盟国から、ロケット砲システムのプルスと弾薬を受注したということです。",
+     "show": "欧州のNATO加盟国から、ロケット砲システム「PULS」と弾薬を受注しました。"
+    },
+    {
+     "say": "額は、およそ二億六千万ドルで、契約の期間は五年です。",
+     "show": "額は、およそ2億6千万ドルで、契約の期間は5年です。"
+    },
+    {
+     "say": "発注した国の名前や、発射機の数は明らかにされていません。",
+     "show": "発注した国の名前や、発射機の数は明らかにされていません。"
+    },
+    {
+     "say": "同社は先月も、欧州の顧客から二億三千五百万ドルのプルスの契約を得ています。",
+     "show": "同社は先月も、欧州の顧客から2億3500万ドルのPULSの契約を得ています。"
+    },
+    {
+     "say": "四月には、ギリシャとも七億五千万ドルの合意を結んでいます。",
+     "show": "4月には、ギリシャとも7億5000万ドルの合意を結んでいます。"
+    }
+   ],
+   "url": "https://www.elbitsystems.com/news/elbit-systems-awarded-260-million-contract-supply-puls-rocket-artillery-systems-european-nato",
+   "link": {
+    "url": "https://www.elbitsystems.com/news/elbit-systems-awarded-260-million-contract-supply-puls-rocket-artillery-systems-european-nato",
+    "title": "Elbit Systems Awarded $260 Million Contract to Supply PULS Rocket Artillery Systems to a European NATO Country",
+    "site": "Elbit Systems",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PULS_MLRS_Landmacht_1.jpg/1280px-PULS_MLRS_Landmacht_1.jpg"
+   }
+  },
+  {
+   "label": "ラファエルが新巡航ミサイル公開、イランも映像",
+   "points": [
+    "弾頭は450キロ超とラファエル",
+    "海面高度で時速約1000キロ",
+    "イランはミサイル施設を放映"
+   ],
+   "lines": [
+    {
+     "say": "最後は、中東の新しいミサイルの話題です。",
+     "show": "最後は、中東の新しいミサイルの話題です。"
+    },
+    {
+     "say": "イスラエルの防衛企業ラファエルが、新しい巡航ミサイル、スーパーエースを公開しました。",
+     "show": "イスラエルのラファエルが、巡航ミサイル「スーパーエース」を公開しました。"
+    },
+    {
+     "say": "インドの週刊誌、ザ・ウィークが伝えています。",
+     "show": "インドの週刊誌、The Weekが伝えています。"
+    },
+    {
+     "say": "ラファエルは、弾頭が四百五十キロを超えると説明しています。",
+     "show": "ラファエルは、弾頭が450キロを超えると説明しています。"
+    },
+    {
+     "say": "速さは音速より遅いものの、海面の高さで時速およそ千キロだということです。",
+     "show": "速さは音速より遅いものの、海面の高さで時速約1000キロだということです。"
+    },
+    {
+     "say": "探知や迎撃が難しいとうたっていますが、配備されたかは分かっていません。",
+     "show": "探知や迎撃が難しいとうたいますが、配備されたかは分かっていません。"
+    },
+    {
+     "say": "一方、イランの国営テレビは、革命防衛隊のミサイル施設の映像を流しました。",
+     "show": "一方イランの国営テレビは、革命防衛隊のミサイル施設の映像を流しました。"
+    },
+    {
+     "say": "軍の参謀総長が視察し、新しい兵器も映されたと伝えられています。",
+     "show": "軍の参謀総長が視察し、新しい兵器も映されたと伝えられています。"
+    },
+    {
+     "say": "施設の場所や、撮影の時期は明らかにされていません。",
+     "show": "施設の場所や、撮影の時期は明らかにされていません。"
+    }
+   ],
+   "url": "https://www.theweek.in/news/middle-east/2026/11/12/israel-debuts-super-ace-missile-iran-responds-with-new-missile-city.html",
+   "link": {
+    "url": "https://www.theweek.in/news/middle-east/2026/11/12/israel-debuts-super-ace-missile-iran-responds-with-new-missile-city.html",
+    "title": "Israel debuts 'Super Ace' missile; Iran responds with new 'missile city'",
+    "site": "The Week",
+    "image": "https://img.theweek.in/content/dam/week/en/archive/news/middle-east/images/2026/11/12/Israel-missile.jpg?w=1248&h=650"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ]
+}
