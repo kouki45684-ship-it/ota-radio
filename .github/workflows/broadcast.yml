@@ -1,0 +1,77 @@
+name: broadcast
+
+# 台本（episodes/*.json）が main に置かれたら、または手動実行されたら、
+# 声の生成→タイミング付け→公開（gh-pages）まで自動で行う。
+# v3: 公開済みの過去の音声を gh-pages から引き継ぐ（毎回まっさらな環境で動くため）。
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "episodes/**"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: broadcast
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and TTS
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts
+
+      # 前回までに公開した音声（gh-pages の audio/）を手元に戻す。
+      # これをしないと、公開のたびに過去の回の音声が消えてしまう。
+      - name: Restore published audio from gh-pages
+        run: |
+          if git fetch -q --depth=1 origin gh-pages; then
+            { git archive FETCH_HEAD audio | tar -x; } || echo "gh-pages has no audio yet"
+          else
+            echo "gh-pages not found (first broadcast)"
+          fi
+          ls -l audio 2>/dev/null || true
+
+      - name: Build episodes that have no timings yet
+        run: |
+          set -o pipefail
+          built=0
+          for f in episodes/*.json; do
+            if ! grep -q '"lines_timed"' "$f"; then
+              python3 tools/build_episode.py "$f" 2>&1 | tee -a build.log
+              built=1
+            fi
+          done
+          echo "built=$built" >> "$GITHUB_ENV"
+
+      - name: Commit timings back to main
+        if: env.built == '1'
+        run: |
+          git config user.name "ota-radio-bot"
+          git config user.email "ota-radio-bot@users.noreply.github.com"
+          git add episodes episodes.json
+          git commit -m "broadcast: add timings [skip ci]"
+          git pull -q --rebase origin main
+          git push
+
+      - name: Publish to GitHub Pages (gh-pages)
+        run: bash tools/publish.sh
+
+      - name: Report failure as an issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          { echo "自動放送の実行が失敗しました。ログ末尾："; echo; echo '```'; tail -c 2500 build.log 2>/dev/null || echo "(build.log なし)"; echo '```'; } > issue.md
+          gh issue create --title "broadcast failed $(date +%F-%H%M)" --body-file issue.md || true

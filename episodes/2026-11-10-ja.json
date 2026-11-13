@@ -1,0 +1,247 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-10",
+ "title": "夜間の大規模ドローン攻撃ほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月十日火曜日、おはようございます。",
+   "show": "おたラジオです。11月10日火曜日、おはようございます。"
+  },
+  {
+   "say": "今日はウクライナ情勢のニュースを二本、お届けします。",
+   "show": "今日はウクライナ情勢のニュースを2本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "一晩で317機のドローン攻撃と発表",
+   "points": [
+    "攻撃ドローン317機が飛来",
+    "8時時点で271機を撃墜・無力化",
+    "数字は空軍の暫定発表"
+   ],
+   "lines": [
+    {
+     "say": "まず、夜間のドローン攻撃です。",
+     "show": "まず、夜間のドローン攻撃です。"
+    },
+    {
+     "say": "ウクライナ空軍は、八日夜から九日朝に、攻撃ドローンが飛来したと発表しています。",
+     "show": "ウクライナ空軍は、8日夜から9日朝に、攻撃ドローンが飛来したと発表しています。"
+    },
+    {
+     "say": "その数は三百十七機だったということです。",
+     "show": "その数は317機だったということです。"
+    },
+    {
+     "say": "九日の八時時点で、二百七十一機を撃墜または電子的に無力化したとしています。",
+     "show": "9日の8時時点で、271機を撃墜または電子的に無力化したとしています。"
+    },
+    {
+     "say": "ジェット式のシャヘドは、百五機のうち八十一機だったと伝えられています。",
+     "show": "ジェット式のシャヘドは、105機のうち81機だったと伝えられています。"
+    },
+    {
+     "say": "ミサイル五発も、撃墜または無力化の対象に含まれています。",
+     "show": "ミサイル5発も、撃墜または無力化の対象に含まれています。"
+    },
+    {
+     "say": "ただし、数字は空軍の暫定発表で、集計は更新される可能性があります。",
+     "show": "ただし、数字は空軍の暫定発表で、集計は更新される可能性があります。"
+    },
+    {
+     "say": "報道によって、合計の数え方が異なる場合もあります。",
+     "show": "報道によって、合計の数え方が異なる場合もあります。"
+    }
+   ],
+   "url": "https://www.ukrinform.net/rubric-ato/4182779-air-defense-neutralizes-271-of-317-russian-drones-targeting-ukraine-overnight.html",
+   "link": {
+    "url": "https://www.ukrinform.net/rubric-ato/4182779-air-defense-neutralizes-271-of-317-russian-drones-targeting-ukraine-overnight.html",
+    "title": "Air defense neutralizes 271 of 317 Russian drones targeting Ukraine overnight",
+    "site": "Ukrinform",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg"
+   }
+  },
+  {
+   "label": "第7空中強襲軍団、無人機と地上ロボットを受領",
+   "points": [
+    "今年50種超のドローンを受領",
+    "地上ロボットは40種超",
+    "部隊自身の説明のみ"
+   ],
+   "lines": [
+    {
+     "say": "続いて、ドローンと地上ロボットの配備の話題です。",
+     "show": "続いて、ドローンと地上ロボットの配備の話題です。"
+    },
+    {
+     "say": "ウクライナの第七空中強襲軍団が、今年の受け取りについて説明しました。",
+     "show": "ウクライナの第7空中強襲軍団が、今年の受け取りについて説明しました。"
+    },
+    {
+     "say": "ドローンは五十種以上、地上ロボットは四十種以上だということです。",
+     "show": "ドローンは50種以上、地上ロボットは40種以上だということです。"
+    },
+    {
+     "say": "無人システム部門の責任者が、空挺軍の日にあわせて明かしたと伝えられています。",
+     "show": "無人システム部門の責任者が、空挺軍の日にあわせて明かしたと伝えられています。"
+    },
+    {
+     "say": "成果が大きかった機種として、エフピーツーやホーネットなどが挙げられています。",
+     "show": "成果が大きかった機種として、FP-2やHornetなどが挙げられています。"
+    },
+    {
+     "say": "ただし、部隊自身の説明で、数量や戦果は第三者に確認されていません。",
+     "show": "ただし、部隊自身の説明で、数量や戦果は第三者に確認されていません。"
+    }
+   ],
+   "url": "https://www.ukrinform.net/amp/rubric-ato/4182767-ukraines-7th-air-assault-corps-receives-over-50-types-of-drones-40-ground-robotic-systems-this-year.html",
+   "link": {
+    "url": "https://www.ukrinform.net/amp/rubric-ato/4182767-ukraines-7th-air-assault-corps-receives-over-50-types-of-drones-40-ground-robotic-systems-this-year.html",
+    "title": "Ukraine's 7th Air Assault Corps receives over 50 types of drones, 40 ground robotic systems this year",
+    "site": "Ukrinform",
+    "image": "https://static.ukrinform.com/photos/2026_06/thumb_files/630_360_1781897301-575.jpg"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ],
+ "lines_timed": [
+  {
+   "start": 0.0,
+   "end": 5.976,
+   "show": "おたラジオです。11月10日火曜日、おはようございます。",
+   "part": "opening"
+  },
+  {
+   "start": 6.326,
+   "end": 11.03,
+   "show": "今日はウクライナ情勢のニュースを2本、お届けします。",
+   "part": "opening"
+  },
+  {
+   "start": 11.73,
+   "end": 15.162,
+   "show": "まず、夜間のドローン攻撃です。",
+   "part": "news"
+  },
+  {
+   "start": 15.512,
+   "end": 23.096,
+   "show": "ウクライナ空軍は、8日夜から9日朝に、攻撃ドローンが飛来したと発表しています。",
+   "part": "news"
+  },
+  {
+   "start": 23.446,
+   "end": 27.862,
+   "show": "その数は317機だったということです。",
+   "part": "news"
+  },
+  {
+   "start": 28.212,
+   "end": 35.916,
+   "show": "9日の8時時点で、271機を撃墜または電子的に無力化したとしています。",
+   "part": "news"
+  },
+  {
+   "start": 36.266,
+   "end": 42.53,
+   "show": "ジェット式のシャヘドは、105機のうち81機だったと伝えられています。",
+   "part": "news"
+  },
+  {
+   "start": 42.88,
+   "end": 48.76,
+   "show": "ミサイル5発も、撃墜または無力化の対象に含まれています。",
+   "part": "news"
+  },
+  {
+   "start": 49.11,
+   "end": 56.454,
+   "show": "ただし、数字は空軍の暫定発表で、集計は更新される可能性があります。",
+   "part": "news"
+  },
+  {
+   "start": 56.804,
+   "end": 62.036,
+   "show": "報道によって、合計の数え方が異なる場合もあります。",
+   "part": "news"
+  },
+  {
+   "start": 62.736,
+   "end": 67.488,
+   "show": "続いて、ドローンと地上ロボットの配備の話題です。",
+   "part": "news"
+  },
+  {
+   "start": 67.838,
+   "end": 74.558,
+   "show": "ウクライナの第7空中強襲軍団が、今年の受け取りについて説明しました。",
+   "part": "news"
+  },
+  {
+   "start": 74.908,
+   "end": 81.268,
+   "show": "ドローンは50種以上、地上ロボットは40種以上だということです。",
+   "part": "news"
+  },
+  {
+   "start": 81.618,
+   "end": 88.746,
+   "show": "無人システム部門の責任者が、空挺軍の日にあわせて明かしたと伝えられています。",
+   "part": "news"
+  },
+  {
+   "start": 89.096,
+   "end": 95.336,
+   "show": "成果が大きかった機種として、FP-2やHornetなどが挙げられています。",
+   "part": "news"
+  },
+  {
+   "start": 95.686,
+   "end": 103.078,
+   "show": "ただし、部隊自身の説明で、数量や戦果は第三者に確認されていません。",
+   "part": "news"
+  },
+  {
+   "start": 103.778,
+   "end": 108.602,
+   "show": "以上、おたラジオでした。よい一日を。",
+   "part": "closing"
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": 0,
+   "start": 0.0,
+   "end": 11.03
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.73,
+   "end": 62.036
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 62.736,
+   "end": 103.078
+  },
+  {
+   "kind": "closing",
+   "index": 0,
+   "start": 103.778,
+   "end": 108.602
+  }
+ ],
+ "seconds": 108.6,
+ "made_at": "2026-11-09T22:41:46.960256+09:00"
+}
