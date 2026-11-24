@@ -1,0 +1,216 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-24",
+ "title": "パトリオット迎撃弾60発、米で承認待ちほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月二十四日火曜日、おはようございます。",
+   "show": "おたラジオです。11月24日火曜日、おはようございます。"
+  },
+  {
+   "say": "今日は軍事のニュースを五本、お届けします。",
+   "show": "今日は軍事のニュースを5本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "パトリオット迎撃弾、米で承認待ち",
+   "points": [
+    "約60発が長官の承認待ち",
+    "PAC-3は9〜12月分も未承認",
+    "国内生産の計画も足踏み"
+   ],
+   "lines": [
+    {
+     "say": "まず、ウクライナへのパトリオット迎撃ミサイルの話です。",
+     "show": "まず、ウクライナへのパトリオット迎撃ミサイルの話です。"
+    },
+    {
+     "say": "イギリスの経済紙フィナンシャル・タイムズによりますと、アメリカが供与に合意していた迎撃ミサイルおよそ六十発が、ヘグセス国防長官の承認待ちで止まっています。",
+     "show": "FTによると、迎撃ミサイル約60発が国防長官の承認待ちです。"
+    },
+    {
+     "say": "九月から十二月に届く予定だったパック・スリーは、どれも移送が承認されておらず、旧型のパック・ツーおよそ二十発も、承認を待っています。",
+     "show": "PAC-3は9〜12月分も未承認。PAC-2約20発も承認待ち。"
+    },
+    {
+     "say": "一部はヨーロッパの在庫にあり、費用は西側の支援国が出しています。",
+     "show": "一部は欧州の在庫にあり、費用は支援国が出しています。"
+    },
+    {
+     "say": "ウクライナ国内で迎撃ミサイルを作る計画も、国防総省で検討が止まっているということです。",
+     "show": "ウクライナ国内での生産計画も、検討が止まっています。"
+    },
+    {
+     "say": "国防総省の報道官は、支援の方針に変更はないとだけ述べています。",
+     "show": "国防総省は「支援の方針に変更はない」としています。"
+    }
+   ],
+   "url": "https://www.brecorder.com/news/40450486/us-defense-chief-has-yet-to-approve-patriot-missiles-already-allocated-to-ukraine-ft-reports",
+   "link": {
+    "url": "https://www.brecorder.com/news/40450486/us-defense-chief-has-yet-to-approve-patriot-missiles-already-allocated-to-ukraine-ft-reports",
+    "title": "US defence chief has yet to approve Patriot missiles already allocated to Ukraine, FT reports",
+    "site": "Business Recorder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Patriot_missile_launch_b.jpg"
+   }
+  },
+  {
+   "label": "露製油所、6時間の攻撃で操業停止",
+   "points": [
+    "ロストフ州の製油所が停止",
+    "ペルミの製油所でも火災",
+    "11月に14か所が攻撃受ける"
+   ],
+   "lines": [
+    {
+     "say": "次は、ロシアの製油所への攻撃です。",
+     "show": "次は、ロシアの製油所への攻撃です。"
+    },
+    {
+     "say": "ロシア南部のロストフ州にあるノヴォシャフチンスク製油所が、二十三日未明、六時間以上続いたウクライナのドローンとミサイルの攻撃を受け、操業を止めました。",
+     "show": "ロストフ州の製油所が、6時間超の攻撃を受け操業を止めました。"
+    },
+    {
+     "say": "ロシア側の州知事が明らかにしたもので、州内では八十機を超えるドローンを撃墜・無力化したとしています。",
+     "show": "州知事の発表。80機超のドローンを無力化したとしています。"
+    },
+    {
+     "say": "同じ夜、ウラル地方ペルミの製油所でも火災が起き、ドローンの残骸の落下が原因と説明されています。",
+     "show": "同じ夜、ペルミの製油所でも火災が起きました。"
+    },
+    {
+     "say": "ウクライナの軍事メディアの集計では、十一月に攻撃を受けたロシアの製油所は十四か所にのぼります。",
+     "show": "集計では、11月に攻撃を受けた製油所は14か所です。"
+    }
+   ],
+   "url": "https://english.news.cn/20261123/df8dde0c8712497d97183e3cf320e266/c.html",
+   "link": {
+    "url": "https://english.news.cn/20261123/df8dde0c8712497d97183e3cf320e266/c.html",
+    "title": "Russia's oil refinery suspends operations after Ukrainian attack",
+    "site": "Xinhua"
+   }
+  },
+  {
+   "label": "露ドローンがポーランド領空に侵入",
+   "points": [
+    "撃墜の許可も撃たず",
+    "住民への危険を理由に判断",
+    "ミサイル落下から3日後の侵入"
+   ],
+   "lines": [
+    {
+     "say": "三つ目は、ポーランドの領空に入ったロシアのドローンです。",
+     "show": "3つ目は、ポーランド領空に入ったロシアのドローンです。"
+    },
+    {
+     "say": "二十三日夜、ロシアがウクライナ西部を攻撃していたさなか、ドローン一機がポーランド領空に短時間入り、向きを変えてウクライナ側へ戻りました。",
+     "show": "23日夜、ドローン1機が領空に入り、ウクライナ側へ戻りました。"
+    },
+    {
+     "say": "ポーランド軍は撃墜の許可を得ていましたが、飛ぶ向きが変わったことと、住民への危険を理由に、撃たなかったと説明しています。",
+     "show": "撃墜の許可はあったが、住民への危険を理由に撃ちませんでした。"
+    },
+    {
+     "say": "ルブリン県の一部では、一時間近く空襲警報が出ました。",
+     "show": "ルブリン県の一部で、1時間近く空襲警報が出ました。"
+    },
+    {
+     "say": "二十日には、ロシアの巡航ミサイル三発がポーランド領内に落ちたばかりでした。",
+     "show": "20日には巡航ミサイル3発が領内に落ちたばかりでした。"
+    }
+   ],
+   "url": "https://united24media.com/war-in-ukraine/russian-drone-enters-nato-airspace-poland-decides-not-to-shoot-as-it-heads-back-toward-ukraine-24656",
+   "link": {
+    "url": "https://united24media.com/war-in-ukraine/russian-drone-enters-nato-airspace-poland-decides-not-to-shoot-as-it-heads-back-toward-ukraine-24656",
+    "title": "Russian Drone Enters NATO Airspace—Poland Decides Not to Shoot as It Heads Back Toward Ukraine",
+    "site": "UNITED24 Media",
+    "image": "https://storage.united24media.com/thumbs/1014x676/5/7d/1c507789c767703b52dfe6bcd8fd97d5.jpg"
+   }
+  },
+  {
+   "label": "露、弾道ミサイルを5時間に1発生産",
+   "points": [
+    "国防相がベルリンで発言",
+    "月約144発の計算に",
+    "情報機関の推計は月最大110発"
+   ],
+   "lines": [
+    {
+     "say": "四つ目は、ロシアのミサイル生産についての、ウクライナ国防相の発言です。",
+     "show": "4つ目は、ロシアのミサイル生産をめぐる国防相の発言です。"
+    },
+    {
+     "say": "フメラ国防相はベルリンでの演説で、ロシアは五時間に一発のペースで弾道ミサイルを作り、さらに増やしていると述べました。",
+     "show": "国防相は、ロシアが5時間に1発のペースで生産と述べました。"
+    },
+    {
+     "say": "月に直すと、およそ百四十四発の計算になります。",
+     "show": "月に直すと、約144発の計算になります。"
+    },
+    {
+     "say": "先月、ロシアがウクライナに撃った弾道ミサイルは、百五十三発だったとしています。",
+     "show": "先月の発射は153発だったとしています。"
+    },
+    {
+     "say": "ただ、ウクライナの情報機関はこれまで、生産は月に最大百十発ほどと推計していて、数字は食い違っています。",
+     "show": "情報機関の推計は月最大110発で、数字は食い違っています。"
+    },
+    {
+     "say": "ウクライナは各国に、手持ちの迎撃ミサイルを先に貸してほしいと呼びかけています。",
+     "show": "各国に、迎撃ミサイルを先に貸してほしいと呼びかけています。"
+    }
+   ],
+   "url": "https://unn.ua/en/news/russia-produces-a-new-ballistic-missile-every-5-hours-and-is-ramping-up-the-pace-khmara",
+   "link": {
+    "url": "https://unn.ua/en/news/russia-produces-a-new-ballistic-missile-every-5-hours-and-is-ramping-up-the-pace-khmara",
+    "title": "Russia produces a new ballistic missile every 5 hours and is ramping up the pace — Khmara",
+    "site": "UNN"
+   }
+  },
+  {
+   "label": "迎撃ドローンが高速ミサイルを撃墜",
+   "points": [
+    "メーカーが撃墜を発表",
+    "目標は時速450キロ超",
+    "迎撃側は時速500キロ超と発表"
+   ],
+   "lines": [
+    {
+     "say": "最後は、ウクライナの迎撃ドローンの話です。",
+     "show": "最後は、ウクライナの迎撃ドローンの話です。"
+    },
+    {
+     "say": "ウクライナのメーカー、クアンタム・ダブリューアイワイ・インダストリーズは、自社の迎撃ドローン、エスピーワイエスだけで、ロシアの小型巡航ミサイル、ゲラン・ファイブ・ケーファイブ・ケーを撃ち落としたと発表しました。",
+     "show": "メーカーは、迎撃ドローンで小型巡航ミサイルを撃墜と発表。"
+    },
+    {
+     "say": "ウクライナの情報機関によりますと、このミサイルは全長およそ四メートル、巡航速度は時速四百五十キロを超え、射程はおよそ千キロです。",
+     "show": "全長約4m、巡航速度は時速450km超、射程は約1,000kmです。"
+    },
+    {
+     "say": "今年の秋から使われ始めた、新しい型だということです。",
+     "show": "今年の秋から使われ始めた新しい型です。"
+    },
+    {
+     "say": "メーカーは、自社の迎撃ドローンが時速五百キロを超えて飛び、ウクライナの防空ドローンとしての速さの記録を作ったとも発表しています。",
+     "show": "迎撃側は時速500km超で、速さの記録を作ったとも発表。"
+    }
+   ],
+   "url": "https://militarnyi.com/en/news/ukrainian-spys-intercepted-geran-5-450-km-h/",
+   "link": {
+    "url": "https://militarnyi.com/en/news/ukrainian-spys-intercepted-geran-5-450-km-h/",
+    "title": "Ukrainian SPYS Intercepted Geran-5 K5-K, Which Reaches Speeds of Over 450 km/h",
+    "site": "Militarnyi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Geran-5_launch_-_9_May_2026.png"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ]
+}
