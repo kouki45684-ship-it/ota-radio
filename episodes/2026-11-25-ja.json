@@ -1,0 +1,246 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-25",
+ "title": "サマラ州の製油所2か所で火災ほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月二十五日水曜日、おはようございます。",
+   "show": "おたラジオです。11月25日水曜日、おはようございます。"
+  },
+  {
+   "say": "今日は軍事のニュースを五本、お届けします。",
+   "show": "今日は軍事のニュースを5本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "サマラ州の製油所2か所で火災",
+   "points": [
+    "25日未明に大規模な攻撃",
+    "ロスネフチの製油所2か所",
+    "州知事は1人死亡と発表"
+   ],
+   "lines": [
+    {
+     "say": "まず、ロシアのサマラ州へのドローン攻撃です。",
+     "show": "まず、ロシアのサマラ州へのドローン攻撃です。"
+    },
+    {
+     "say": "ロシア南部、ヴォルガ川沿いのサマラ州が、二十五日未明、大規模なドローン攻撃を受けました。",
+     "show": "ヴォルガ川沿いのサマラ州が、25日未明に攻撃を受けました。"
+    },
+    {
+     "say": "ウクライナ側の監視チャンネルは、国営石油会社ロスネフチのクイビシェフ製油所と、シズラニ製油所で火災が起きたと伝え、写真や映像を公開しています。",
+     "show": "ロスネフチの2つの製油所で火災が起きたと伝えられています。"
+    },
+    {
+     "say": "ロシア側の州知事は、百四十五機を超えるドローンを撃ち落としたと主張し、一人が死亡したと発表しました。",
+     "show": "州知事は145機超を撃墜と主張し、1人死亡と発表しました。"
+    },
+    {
+     "say": "一部の地域では停電も起きているということです。",
+     "show": "一部の地域では停電も起きています。"
+    },
+    {
+     "say": "クイビシェフ製油所は六月にも被害を受けて操業を止め、シズラニ製油所は九月にも攻撃を受けていました。",
+     "show": "2つの製油所は、6月と9月にも攻撃を受けていました。"
+    }
+   ],
+   "url": "https://meduza.io/en/news/2026/11/25/ukrainian-drones-strike-russia-s-samara-region-killing-one-and-setting-two-rosneft-oil-refineries-ablaze",
+   "link": {
+    "url": "https://meduza.io/en/news/2026/11/25/ukrainian-drones-strike-russia-s-samara-region-killing-one-and-setting-two-rosneft-oil-refineries-ablaze",
+    "title": "Ukrainian drones strike Russia’s Samara region, killing one and setting two Rosneft oil refineries ablaze",
+    "site": "Meduza",
+    "image": "https://meduza.io/imgly/share/1795594078/en/news/2026/11/25/ukrainian-drones-strike-russia-s-samara-region-killing-one-and-setting-two-rosneft-oil-refineries-ablaze"
+   }
+  },
+  {
+   "label": "ノルウェーと共同開発の防空「デスナ」",
+   "points": [
+    "すでにドローン迎撃に使用",
+    "ウクライナ製ミサイルを活用",
+    "安く大量に作れるのが特長"
+   ],
+   "lines": [
+    {
+     "say": "次は、ノルウェーとウクライナが共同で開発した防空システムです。",
+     "show": "次は、ノルウェーと共同開発した防空システムです。"
+    },
+    {
+     "say": "ウクライナ軍が、新しい防空システム、デスナを、すでにロシアのドローンの迎撃に使っていることが分かりました。",
+     "show": "新しい防空システム「デスナ」が、すでに使われています。"
+    },
+    {
+     "say": "オスロで、ノルウェーのサンドビク国防相と、ウクライナのフメラ国防相が会談した際に伝えられたものです。",
+     "show": "オスロでの両国の国防相会談で伝えられました。"
+    },
+    {
+     "say": "ウクライナ製のミサイルと発射機に、ノルウェーのコングスベルグが開発に加わった射撃管制の拠点を組み合わせています。",
+     "show": "ウクライナ製のミサイルに、ノルウェーの射撃管制を組み合わせます。"
+    },
+    {
+     "say": "ミサイルはふつうの対空ミサイルより安く、大量に作れるということです。",
+     "show": "ミサイルは従来より安く、大量に作れるということです。"
+    },
+    {
+     "say": "ノルウェーはここ数か月で数基を買って、ウクライナに渡したとされています。",
+     "show": "ノルウェーは数か月で数基を買い、渡したとされます。"
+    },
+    {
+     "say": "ノルウェー軍が、ウクライナの戦場管理システム、デルタを試すことでも、両国は合意しました。",
+     "show": "ウクライナの戦場管理システム「DELTA」を試すことでも合意。"
+    }
+   ],
+   "url": "https://militarnyi.com/en/news/ukraine-using-desna-air-defense-system-kongsberg-combat-russian-drones/",
+   "link": {
+    "url": "https://militarnyi.com/en/news/ukraine-using-desna-air-defense-system-kongsberg-combat-russian-drones/",
+    "title": "Ukraine Already Using Desna Air Defense System, Developed Jointly with KONGSBERG, to Combat Russian Drones",
+    "site": "Militarnyi",
+    "image": "https://militarnyi.com/wp-content/uploads/2026/11/Raketa-do-ZRK-Desna-1.jpg"
+   }
+  },
+  {
+   "label": "独製歩兵戦闘車リンクス、5両が配備",
+   "points": [
+    "第21機械化旅団に5両",
+    "費用はドイツ政府が負担",
+    "ドローンも狙えると説明"
+   ],
+   "lines": [
+    {
+     "say": "三つ目は、ドイツ製の新しい歩兵戦闘車です。",
+     "show": "3つ目は、ドイツ製の新しい歩兵戦闘車です。"
+    },
+    {
+     "say": "ウクライナ軍の第十八軍団は二十四日、ラインメタル製の歩兵戦闘車、ケーエフ・フォーティーワン・リンクスの最初の五両が、第二十一独立機械化旅団で使われ始めたと発表しました。",
+     "show": "ウクライナ軍は24日、リンクス5両の配備を発表しました。"
+    },
+    {
+     "say": "工場から届いたばかりの新しい車両で、費用はドイツ政府が出しました。",
+     "show": "新しく作られた車両で、費用はドイツ政府が出しました。"
+    },
+    {
+     "say": "乗員はドイツで四十五日間の訓練を受けています。",
+     "show": "乗員はドイツで45日間の訓練を受けています。"
+    },
+    {
+     "say": "乗員三人のほかに、兵士八人を乗せることができます。",
+     "show": "乗員3人のほかに、兵士8人を乗せられます。"
+    },
+    {
+     "say": "第十八軍団は、エフピーブイ・ドローンやシャヘド型のドローン、それにロシアの装甲車両を撃破できると説明しています。",
+     "show": "FPVドローンやシャヘド型ドローン、装甲車両も狙えるとしています。"
+    },
+    {
+     "say": "ラインメタルは二〇二四年七月に、ウクライナでこの車両を作る契約も結んでいます。",
+     "show": "2024年7月には、ウクライナで作る契約も結ばれています。"
+    }
+   ],
+   "url": "https://www.kyivpost.com/post/91095",
+   "link": {
+    "url": "https://www.kyivpost.com/post/91095",
+    "title": "Ukraine Gets Its First 5 German Lynx KF41 IFVs",
+    "site": "Kyiv Post",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lynx_KF41_unveiled.jpg"
+   }
+  },
+  {
+   "label": "英が調達の爆薬、主成分なしと報道",
+   "points": [
+    "C4相当の爆薬からRDX出ず",
+    "約32トンがウクライナへ",
+    "英国防省は使用に問題なし"
+   ],
+   "lines": [
+    {
+     "say": "四つ目は、イギリスがウクライナ向けに買った爆薬をめぐる報道です。",
+     "show": "4つ目は、イギリスが買った爆薬をめぐる報道です。"
+    },
+    {
+     "say": "イギリスの経済紙フィナンシャル・タイムズが伝えたもので、ほかの報道もこの記事をもとにしています。",
+     "show": "FTの報道で、ほかの報道もこの記事をもとにしています。"
+    },
+    {
+     "say": "英国防省は、ウクライナへの支援を急ぐための部隊を通じて、アメリカの企業から、シーフォーの改良版とうたう爆薬を買いました。",
+     "show": "英国防省は、米企業から「C4の改良版」の爆薬を買いました。"
+    },
+    {
+     "say": "ところが分析では、主な成分のアールディーエックスが見つからず、もっと安い民生用の爆薬と同じ中身だったと伝えられています。",
+     "show": "分析では主成分のRDXが出ず、安い民生用と同じ中身でした。"
+    },
+    {
+     "say": "二〇二三年八月から二〇二五年八月までに、およそ三十二トンが届き、契約は最大で二千六百三十万ポンドだということです。",
+     "show": "約32トンが届き、契約は最大2630万ポンドとされます。"
+    },
+    {
+     "say": "添付の安全資料からは、取り扱いの注意の一部が抜けていて、専門家は危険を指摘しています。",
+     "show": "安全資料から注意の一部が抜け、専門家が危険を指摘。"
+    },
+    {
+     "say": "英国防省は、契約に成分の決まりはなく、検査でも使用に問題はなかったと説明しています。",
+     "show": "英国防省は、検査でも使用に問題はなかったとしています。"
+    }
+   ],
+   "url": "https://militarnyi.com/en/news/britain-supplied-ukraine-with-rdx-free-edc-4-explosives-deemed-fit-for-use-ft-reports/",
+   "link": {
+    "url": "https://militarnyi.com/en/news/britain-supplied-ukraine-with-rdx-free-edc-4-explosives-deemed-fit-for-use-ft-reports/",
+    "title": "Britain Supplied Ukraine With RDX-Free EDC-4 Explosives Deemed Fit for Use, FT Reports",
+    "site": "Militarnyi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eod2.jpg"
+   }
+  },
+  {
+   "label": "露ドローンに2026年製の欧米部品",
+   "points": [
+    "ゲラン4から外国部品約100点",
+    "7点は2026年製",
+    "各社は露と取引なしと回答"
+   ],
+   "lines": [
+    {
+     "say": "最後は、ロシアのドローンから見つかった部品の話です。",
+     "show": "最後は、ロシアのドローンから見つかった部品の話です。"
+    },
+    {
+     "say": "キーウ・インディペンデントが、国際的な調査報道の団体などと組んで伝えたものです。",
+     "show": "キーウ・インディペンデントなどの調査報道です。"
+    },
+    {
+     "say": "八月中旬にキーウ州の上空で撃ち落とされた、ジェット型の自爆ドローン、ゲラン・フォーの残骸から、ロシア製でない部品が百点近く見つかったということです。",
+     "show": "8月に撃墜されたゲラン4から、外国の部品が100点近く見つかりました。"
+    },
+    {
+     "say": "製造の時期が分かる十二点のうち、七点は今年、二〇二六年に作られたものでした。",
+     "show": "製造時期が分かる12点のうち、7点は2026年製でした。"
+    },
+    {
+     "say": "アメリカのシーティーエスやビシェイ、スイスに本社を置くエスティーマイクロエレクトロニクスの部品が含まれていたと伝えられています。",
+     "show": "米CTSやビシェイ、STマイクロの部品が含まれていました。"
+    },
+    {
+     "say": "エスティーマイクロとビシェイは、ロシアとは取引していないと回答し、シーティーエスは回答しませんでした。",
+     "show": "2社はロシアと取引していないと回答。CTSは回答なし。"
+    },
+    {
+     "say": "ウクライナの検察は、ロシアの兵器から、三十か国以上の外国製の部品を、一万六千点以上確認したとしています。",
+     "show": "検察は、30か国以上の部品を1万6000点以上確認したとしています。"
+    }
+   ],
+   "url": "https://kyivindependent.com/exclusive-freshly-made-european-american-components-found-in-russian-drones-attacking-ukraine/",
+   "link": {
+    "url": "https://kyivindependent.com/exclusive-freshly-made-european-american-components-found-in-russian-drones-attacking-ukraine/",
+    "title": "Exclusive: Freshly made European, American components found in Russian drones attacking Ukraine",
+    "site": "The Kyiv Independent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Geran_4.png"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ]
+}
