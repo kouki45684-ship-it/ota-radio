@@ -1,0 +1,565 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-21",
+ "title": "ロシアのミサイルなどポーランドに落下ほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月二十一日土曜日、おはようございます。",
+   "show": "おたラジオです。11月21日土曜日、おはようございます。"
+  },
+  {
+   "say": "今日は軍事のニュースを五本、お届けします。",
+   "show": "今日は軍事のニュースを5本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "ミサイルなど3つ、ポーランドに落下",
+   "points": [
+    "ミサイル2発とドローン1機",
+    "東部の3か所に落下",
+    "NATOにAWACSなど要請"
+   ],
+   "lines": [
+    {
+     "say": "まず、ポーランドに、ロシアのミサイルなどが落ちたニュースです。",
+     "show": "まず、ポーランドにロシアのミサイルなどが落ちたニュースです。"
+    },
+    {
+     "say": "ロシアは二十日の夜、ウクライナを大規模に攻撃しました。",
+     "show": "ロシアは20日夜、ウクライナを大規模に攻撃しました。"
+    },
+    {
+     "say": "このとき、ミサイル二発と、ジェット推進のドローン一機が、隣のポーランドに落ちました。",
+     "show": "このとき、ミサイル2発とジェット推進のドローン1機が、ポーランドに落下。"
+    },
+    {
+     "say": "ポーランドのコシニャク・カミシュ国防相が、記者会見で明らかにしました。",
+     "show": "ポーランドのコシニャク＝カミシュ国防相が、会見で明らかにしました。"
+    },
+    {
+     "say": "ミサイルは、東部のノヴィ・リポヴィエツと、ルドニク・ナド・サネムに落ちました。",
+     "show": "ミサイルは東部のノヴィ・リポヴィエツと、ルドニク・ナド・サネムに落下。"
+    },
+    {
+     "say": "ドローンは、モウォディチに落ちたということです。",
+     "show": "ドローンは、モウォディチに落ちたということです。"
+    },
+    {
+     "say": "ミサイルは、ロシアの巡航ミサイル、ケーエイチ・ヒャクイチと伝えられています。",
+     "show": "ミサイルは、ロシアの巡航ミサイルKh-101と伝えられています。"
+    },
+    {
+     "say": "ノヴィ・リポヴィエツでは、畑に落ち、けが人はいなかったということです。",
+     "show": "ノヴィ・リポヴィエツでは畑に落ち、けが人はいなかったということです。"
+    },
+    {
+     "say": "攻撃の夜は、スウェーデンのグリペン戦闘機などが、ポーランドの防空を支えました。",
+     "show": "攻撃の夜は、スウェーデンのグリペン戦闘機などが防空を支えました。"
+    },
+    {
+     "say": "国防相は、ナトーに、早期警戒機エーワックスや、エフサンジュウゴ戦闘機の追加を求めています。",
+     "show": "国防相は、NATOに早期警戒機AWACSやF-35の追加を求めています。"
+    }
+   ],
+   "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
+   "link": {
+    "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
+    "title": "2 Russian Kh-101 missiles, drone, fall in Poland during Russian attack on Ukraine",
+    "site": "The Kyiv Independent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/H101_missile.jpg"
+   }
+  },
+  {
+   "label": "EU、10億ユーロの軍事支援を決定",
+   "points": [
+    "欧州平和ファシリティから",
+    "ドローン・防空・弾薬など",
+    "2027年末までに届ける"
+   ],
+   "lines": [
+    {
+     "say": "次は、イーユーからウクライナへの軍事支援です。",
+     "show": "次は、EUからウクライナへの軍事支援です。"
+    },
+    {
+     "say": "イーユー理事会は二十日、ウクライナへの新たな軍事支援として、十億ユーロを出すことを決めました。",
+     "show": "EU理事会は20日、ウクライナへの10億ユーロの新たな軍事支援を決定。"
+    },
+    {
+     "say": "お金の出どころは、欧州平和ファシリティという、イーユーの基金です。",
+     "show": "出どころは、「欧州平和ファシリティ」というEUの基金です。"
+    },
+    {
+     "say": "加盟国が共同で装備を買い、ウクライナ軍に渡す仕組みです。",
+     "show": "加盟国が共同で装備を買い、ウクライナ軍に渡す仕組みです。"
+    },
+    {
+     "say": "ドローンや防空システム、弾薬、電子戦の装備などが対象です。",
+     "show": "ドローンや防空システム、弾薬、電子戦の装備などが対象です。"
+    },
+    {
+     "say": "レーダーや爆発物も含まれ、二〇二七年の末までに届ける計画です。",
+     "show": "レーダーや爆発物も含まれ、2027年末までに届ける計画です。"
+    },
+    {
+     "say": "加盟国が九月に合意した、総額六十六億ユーロの支援の一部です。",
+     "show": "加盟国が9月に合意した、総額66億ユーロの支援の一部です。"
+    }
+   ],
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/european-peace-facility-council-mobilises-additional-1-billion-in-new-military-aid-to-ukraine/",
+   "link": {
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/european-peace-facility-council-mobilises-additional-1-billion-in-new-military-aid-to-ukraine/",
+    "title": "European Peace Facility: Council mobilises additional €1 billion in new military aid to Ukraine",
+    "site": "Council of the EU"
+   }
+  },
+  {
+   "label": "露の弾道ミサイル発射機を攻撃と発表",
+   "points": [
+    "3基を攻撃、1基破壊と発表",
+    "場所や型式は示さず",
+    "迎撃弾の供給で米と調整"
+   ],
+   "lines": [
+    {
+     "say": "三つ目は、ウクライナの、ゼレンスキー大統領の発表です。",
+     "show": "3つ目は、ウクライナのゼレンスキー大統領の発表です。"
+    },
+    {
+     "say": "大統領は二十日、ロシアの弾道ミサイルの発射機三基を、夜のうちに攻撃したと発表しました。",
+     "show": "大統領は20日、ロシアの弾道ミサイル発射機3基を夜のうちに攻撃したと発表。"
+    },
+    {
+     "say": "一基は破壊し、残る二基は、被害を確かめているとしています。",
+     "show": "1基は破壊し、残る2基は被害を確かめているとしています。"
+    },
+    {
+     "say": "ただ、場所や発射機の種類は、明かしていません。",
+     "show": "ただ、場所や発射機の種類は明かしていません。"
+    },
+    {
+     "say": "大統領の発表で、独立した確認はまだありません。",
+     "show": "大統領の発表で、独立した確認はまだありません。"
+    },
+    {
+     "say": "大統領によると、同じ夜、ロシアはミサイル百十発以上と、ドローン四百機以上で攻撃しました。",
+     "show": "同じ夜、ロシアはミサイル110発超とドローン400機超で攻撃したとしています。"
+    },
+    {
+     "say": "そのうち二十七発は、弾道ミサイルだったということです。",
+     "show": "そのうち27発は、弾道ミサイルだったということです。"
+    },
+    {
+     "say": "大統領は、迎撃ミサイルの供給について、アメリカ側と調整したとしています。",
+     "show": "大統領は、迎撃ミサイルの供給について、アメリカ側と調整したとしています。"
+    },
+    {
+     "say": "パトリオットの迎撃ミサイル、パックツーとパックスリーです。",
+     "show": "パトリオットの迎撃ミサイル、PAC-2とPAC-3です。"
+    }
+   ],
+   "url": "https://united24media.com/war-in-ukraine/ukraine-goes-after-russias-ballistic-missile-launchers-three-hit-one-confirmed-destroyed-24557",
+   "link": {
+    "url": "https://united24media.com/war-in-ukraine/ukraine-goes-after-russias-ballistic-missile-launchers-three-hit-one-confirmed-destroyed-24557",
+    "title": "Ukraine Goes After Russia’s Ballistic Missile Launchers—Three Hit, One Confirmed Destroyed",
+    "site": "UNITED24 Media",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg"
+   }
+  },
+  {
+   "label": "2夜続けて攻撃、ドローン148機",
+   "points": [
+    "ドローン148機、弾道弾3発",
+    "117機を撃墜・無力化",
+    "19か所に着弾"
+   ],
+   "lines": [
+    {
+     "say": "四つ目は、二夜続いた、ロシアの攻撃です。",
+     "show": "4つ目は、2夜続いたロシアの攻撃です。"
+    },
+    {
+     "say": "ウクライナ空軍によると、ロシアは二十日の夕方から二十一日にかけて、また攻撃を行いました。",
+     "show": "ウクライナ空軍によると、ロシアは20日夕方から21日にかけ、再び攻撃。"
+    },
+    {
+     "say": "使われたのは、攻撃ドローン百四十八機と、弾道ミサイル三発です。",
+     "show": "使われたのは、攻撃ドローン148機と、弾道ミサイル3発です。"
+    },
+    {
+     "say": "ドローンのうち八十七機は、ジェット推進の、速いタイプだったということです。",
+     "show": "ドローンのうち87機は、ジェット推進の速いタイプだったということです。"
+    },
+    {
+     "say": "空軍は、朝八時までに、百十七機を撃ち落とすか、電子妨害で無力化したと発表しています。",
+     "show": "空軍は朝8時までに、117機を撃墜または電子妨害で無力化したと発表。"
+    },
+    {
+     "say": "一方で、十九か所に着弾したとしています。",
+     "show": "一方で、19か所に着弾したとしています。"
+    },
+    {
+     "say": "中部のクリヴィー・リフでは、七歳の子どもと救急隊員が亡くなったと伝えられています。",
+     "show": "クリヴィー・リフでは、7歳の子どもと救急隊員が亡くなったと伝えられています。"
+    }
+   ],
+   "url": "https://en.interfax.com.ua/news/general/1240212.html",
+   "link": {
+    "url": "https://en.interfax.com.ua/news/general/1240212.html",
+    "title": "Defense forces shoot down or neutralize 117 out of 148 enemy UAVs; hits recorded at 19 locations – Air Force",
+    "site": "Interfax-Ukraine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg"
+   }
+  },
+  {
+   "label": "露ドローン部隊「ルビコン」拠点を攻撃",
+   "points": [
+    "クルスク州リリスクの拠点",
+    "宿舎や作業場を攻撃と発表",
+    "被害の程度は確認されず"
+   ],
+   "lines": [
+    {
+     "say": "最後は、ロシアのドローン部隊への攻撃です。",
+     "show": "最後は、ロシアのドローン部隊への攻撃です。"
+    },
+    {
+     "say": "ウクライナ軍の第八空中強襲軍団は二十日、ロシア側への攻撃を発表しました。",
+     "show": "ウクライナ軍の第8空中強襲軍団は20日、ロシア側への攻撃を発表しました。"
+    },
+    {
+     "say": "狙ったのは、ロシアの精鋭ドローン部隊、ルビコンの拠点です。",
+     "show": "狙ったのは、ロシアの精鋭ドローン部隊「ルビコン」の拠点です。"
+    },
+    {
+     "say": "場所は、ロシア西部、クルスク州のリリスクです。",
+     "show": "場所は、ロシア西部、クルスク州のリリスクです。"
+    },
+    {
+     "say": "兵士の宿舎や作業場など、数か所を攻撃したとして、映像を公開しています。",
+     "show": "宿舎や作業場など数か所を攻撃したとして、映像を公開しています。"
+    },
+    {
+     "say": "ただ、被害の程度は、独立した確認がとれていません。",
+     "show": "ただ、被害の程度は、独立した確認がとれていません。"
+    }
+   ],
+   "url": "https://kyivindependent.com/ukrainian-forces-strike-russian-elite-rubicon-drone-unit-deployment-site-in-russian-kursk-oblast/",
+   "link": {
+    "url": "https://kyivindependent.com/ukrainian-forces-strike-russian-elite-rubicon-drone-unit-deployment-site-in-russian-kursk-oblast/",
+    "title": "Ukrainian forces strike Russian elite 'Rubicon' drone unit deployment site in Russian Kursk Oblast",
+    "site": "The Kyiv Independent",
+    "image": "https://assets.kyivindependent.com/content/images/2026/11/GettyImages-2210524392_20261120-110315.jpg"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ],
+ "lines_timed": [
+  {
+   "start": 0.0,
+   "end": 6.576,
+   "show": "おたラジオです。11月21日土曜日、おはようございます。",
+   "part": "opening"
+  },
+  {
+   "start": 6.926,
+   "end": 11.03,
+   "show": "今日は軍事のニュースを5本、お届けします。",
+   "part": "opening"
+  },
+  {
+   "start": 11.73,
+   "end": 17.178,
+   "show": "まず、ポーランドにロシアのミサイルなどが落ちたニュースです。",
+   "part": "news"
+  },
+  {
+   "start": 17.528,
+   "end": 22.736,
+   "show": "ロシアは20日夜、ウクライナを大規模に攻撃しました。",
+   "part": "news"
+  },
+  {
+   "start": 23.086,
+   "end": 30.742,
+   "show": "このとき、ミサイル2発とジェット推進のドローン1機が、ポーランドに落下。",
+   "part": "news"
+  },
+  {
+   "start": 31.092,
+   "end": 37.908,
+   "show": "ポーランドのコシニャク＝カミシュ国防相が、会見で明らかにしました。",
+   "part": "news"
+  },
+  {
+   "start": 38.258,
+   "end": 45.29,
+   "show": "ミサイルは東部のノヴィ・リポヴィエツと、ルドニク・ナド・サネムに落下。",
+   "part": "news"
+  },
+  {
+   "start": 45.64,
+   "end": 49.792,
+   "show": "ドローンは、モウォディチに落ちたということです。",
+   "part": "news"
+  },
+  {
+   "start": 50.142,
+   "end": 57.006,
+   "show": "ミサイルは、ロシアの巡航ミサイルKh-101と伝えられています。",
+   "part": "news"
+  },
+  {
+   "start": 57.356,
+   "end": 64.052,
+   "show": "ノヴィ・リポヴィエツでは畑に落ち、けが人はいなかったということです。",
+   "part": "news"
+  },
+  {
+   "start": 64.402,
+   "end": 71.578,
+   "show": "攻撃の夜は、スウェーデンのグリペン戦闘機などが防空を支えました。",
+   "part": "news"
+  },
+  {
+   "start": 71.928,
+   "end": 80.352,
+   "show": "国防相は、NATOに早期警戒機AWACSやF-35の追加を求めています。",
+   "part": "news"
+  },
+  {
+   "start": 81.052,
+   "end": 85.54,
+   "show": "次は、EUからウクライナへの軍事支援です。",
+   "part": "news"
+  },
+  {
+   "start": 85.89,
+   "end": 93.978,
+   "show": "EU理事会は20日、ウクライナへの10億ユーロの新たな軍事支援を決定。",
+   "part": "news"
+  },
+  {
+   "start": 94.328,
+   "end": 100.64,
+   "show": "出どころは、「欧州平和ファシリティ」というEUの基金です。",
+   "part": "news"
+  },
+  {
+   "start": 100.99,
+   "end": 106.558,
+   "show": "加盟国が共同で装備を買い、ウクライナ軍に渡す仕組みです。",
+   "part": "news"
+  },
+  {
+   "start": 106.908,
+   "end": 113.22,
+   "show": "ドローンや防空システム、弾薬、電子戦の装備などが対象です。",
+   "part": "news"
+  },
+  {
+   "start": 113.57,
+   "end": 120.506,
+   "show": "レーダーや爆発物も含まれ、2027年末までに届ける計画です。",
+   "part": "news"
+  },
+  {
+   "start": 120.856,
+   "end": 127.504,
+   "show": "加盟国が9月に合意した、総額66億ユーロの支援の一部です。",
+   "part": "news"
+  },
+  {
+   "start": 128.204,
+   "end": 133.724,
+   "show": "3つ目は、ウクライナのゼレンスキー大統領の発表です。",
+   "part": "news"
+  },
+  {
+   "start": 134.074,
+   "end": 142.522,
+   "show": "大統領は20日、ロシアの弾道ミサイル発射機3基を夜のうちに攻撃したと発表。",
+   "part": "news"
+  },
+  {
+   "start": 142.872,
+   "end": 148.704,
+   "show": "1基は破壊し、残る2基は被害を確かめているとしています。",
+   "part": "news"
+  },
+  {
+   "start": 149.054,
+   "end": 153.782,
+   "show": "ただ、場所や発射機の種類は明かしていません。",
+   "part": "news"
+  },
+  {
+   "start": 154.132,
+   "end": 159.316,
+   "show": "大統領の発表で、独立した確認はまだありません。",
+   "part": "news"
+  },
+  {
+   "start": 159.666,
+   "end": 168.618,
+   "show": "同じ夜、ロシアはミサイル110発超とドローン400機超で攻撃したとしています。",
+   "part": "news"
+  },
+  {
+   "start": 168.968,
+   "end": 174.248,
+   "show": "そのうち27発は、弾道ミサイルだったということです。",
+   "part": "news"
+  },
+  {
+   "start": 174.598,
+   "end": 181.894,
+   "show": "大統領は、迎撃ミサイルの供給について、アメリカ側と調整したとしています。",
+   "part": "news"
+  },
+  {
+   "start": 182.244,
+   "end": 187.356,
+   "show": "パトリオットの迎撃ミサイル、PAC-2とPAC-3です。",
+   "part": "news"
+  },
+  {
+   "start": 188.056,
+   "end": 192.832,
+   "show": "4つ目は、2夜続いたロシアの攻撃です。",
+   "part": "news"
+  },
+  {
+   "start": 193.182,
+   "end": 201.87,
+   "show": "ウクライナ空軍によると、ロシアは20日夕方から21日にかけ、再び攻撃。",
+   "part": "news"
+  },
+  {
+   "start": 202.22,
+   "end": 208.868,
+   "show": "使われたのは、攻撃ドローン148機と、弾道ミサイル3発です。",
+   "part": "news"
+  },
+  {
+   "start": 209.218,
+   "end": 216.034,
+   "show": "ドローンのうち87機は、ジェット推進の速いタイプだったということです。",
+   "part": "news"
+  },
+  {
+   "start": 216.384,
+   "end": 225.048,
+   "show": "空軍は朝8時までに、117機を撃墜または電子妨害で無力化したと発表。",
+   "part": "news"
+  },
+  {
+   "start": 225.398,
+   "end": 229.838,
+   "show": "一方で、19か所に着弾したとしています。",
+   "part": "news"
+  },
+  {
+   "start": 230.188,
+   "end": 237.748,
+   "show": "クリヴィー・リフでは、7歳の子どもと救急隊員が亡くなったと伝えられています。",
+   "part": "news"
+  },
+  {
+   "start": 238.448,
+   "end": 242.888,
+   "show": "最後は、ロシアのドローン部隊への攻撃です。",
+   "part": "news"
+  },
+  {
+   "start": 243.238,
+   "end": 250.75,
+   "show": "ウクライナ軍の第8空中強襲軍団は20日、ロシア側への攻撃を発表しました。",
+   "part": "news"
+  },
+  {
+   "start": 251.1,
+   "end": 256.788,
+   "show": "狙ったのは、ロシアの精鋭ドローン部隊「ルビコン」の拠点です。",
+   "part": "news"
+  },
+  {
+   "start": 257.138,
+   "end": 261.914,
+   "show": "場所は、ロシア西部、クルスク州のリリスクです。",
+   "part": "news"
+  },
+  {
+   "start": 262.264,
+   "end": 269.344,
+   "show": "宿舎や作業場など数か所を攻撃したとして、映像を公開しています。",
+   "part": "news"
+  },
+  {
+   "start": 269.694,
+   "end": 274.974,
+   "show": "ただ、被害の程度は、独立した確認がとれていません。",
+   "part": "news"
+  },
+  {
+   "start": 275.674,
+   "end": 280.498,
+   "show": "以上、おたラジオでした。よい一日を。",
+   "part": "closing"
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": 0,
+   "start": 0.0,
+   "end": 11.03
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.73,
+   "end": 80.352
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 81.052,
+   "end": 127.504
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 128.204,
+   "end": 187.356
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 188.056,
+   "end": 237.748
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 238.448,
+   "end": 274.974
+  },
+  {
+   "kind": "closing",
+   "index": 0,
+   "start": 275.674,
+   "end": 280.498
+  }
+ ],
+ "seconds": 280.5,
+ "made_at": "2026-11-21T23:22:44.517276+09:00"
+}

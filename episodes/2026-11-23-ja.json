@@ -1,0 +1,423 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-23",
+ "title": "ロシア軍艦、リビアの港で炎上ほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月二十三日月曜日、おはようございます。",
+   "show": "おたラジオです。11月23日月曜日、おはようございます。"
+  },
+  {
+   "say": "今日は軍事のニュースを四本、お届けします。",
+   "show": "今日は軍事のニュースを4本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "露コルベット、リビアの港で炎上",
+   "points": [
+    "ベンガジ港で爆発・火災",
+    "艦は「メルクーリー」とみられる",
+    "原因は説明が分かれる"
+   ],
+   "lines": [
+    {
+     "say": "まず、リビアの港で、ロシアの軍艦が燃えたニュースです。",
+     "show": "まず、リビアの港でロシアの軍艦が燃えたニュースです。"
+    },
+    {
+     "say": "軍事メディアのネイバル・ニュースによりますと、リビアのベンガジ港で爆発があり、ロシア海軍のコルベットが炎に包まれました。",
+     "show": "リビアのベンガジ港で爆発があり、ロシア海軍のコルベットが炎上。"
+    },
+    {
+     "say": "艦は、二〇二三年に就役した、二〇三八〇型のメルクーリーとみられています。",
+     "show": "艦は2023年就役の20380型「メルクーリー」とみられています。"
+    },
+    {
+     "say": "船が燃え尽きたのか、岸壁で沈んだのかは、はっきりしていません。",
+     "show": "燃え尽きたのか、岸壁で沈んだのかは、はっきりしていません。"
+    },
+    {
+     "say": "原因については、説明が分かれています。",
+     "show": "原因については、説明が分かれています。"
+    },
+    {
+     "say": "現地当局は、陸の弾薬庫が爆発したと説明していると伝えられています。",
+     "show": "現地当局は、陸の弾薬庫が爆発したと説明していると伝えられています。"
+    },
+    {
+     "say": "一方、ウクライナの監視チャンネルは、艦の上で爆発が起きたとしています。",
+     "show": "一方、ウクライナの監視チャンネルは艦上で爆発が起きたとしています。"
+    },
+    {
+     "say": "公式な原因は、まだ確認されていません。",
+     "show": "公式な原因は、まだ確認されていません。"
+    }
+   ],
+   "url": "https://www.kyivpost.com/post/90861",
+   "link": {
+    "url": "https://www.kyivpost.com/post/90861",
+    "title": "Russian Missile Corvette Merkury Engulfed in Flames After Explosion in Libya’s Benghazi Port",
+    "site": "Kyiv Post",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russian_Navy_Corvette_Merkury.jpg"
+   }
+  },
+  {
+   "label": "ポーランドに落下、3発ともKh-101",
+   "points": [
+    "当初は「2発と無人機1機」",
+    "3か所で破片、けが人なし",
+    "今年10月以降の製造か"
+   ],
+   "lines": [
+    {
+     "say": "次は、ポーランドに落ちたミサイルの続報です。",
+     "show": "次は、ポーランドに落ちたミサイルの続報です。"
+    },
+    {
+     "say": "二十日のロシアの大規模攻撃の際、ポーランドに落ちた三つの物体について、ルブリンの検察は、三つともロシアの巡航ミサイル、ケーエイチ・ヒャクイチだったと発表しました。",
+     "show": "ルブリンの検察は、落ちた3つとも巡航ミサイルKh-101だったと発表。"
+    },
+    {
+     "say": "当初、国防相は、ミサイル二発と無人機一機が入ったとみられるとしていました。",
+     "show": "当初、国防相は、ミサイル2発と無人機1機とみられるとしていました。"
+    },
+    {
+     "say": "破片は、ノヴィ・リポヴィエツなど三つの村で見つかり、けが人はいません。",
+     "show": "破片はノヴィ・リポヴィエツなど3つの村で見つかり、けが人はなし。"
+    },
+    {
+     "say": "検察の暫定的な調べでは、三発とも、モスクワ近郊のドゥブナで、今年の十月以降に作られたとみられるということです。",
+     "show": "暫定的な調べでは、3発ともドゥブナで今年10月以降に作られたとみられます。"
+    },
+    {
+     "say": "トゥスク首相は、意図的な挑発だった可能性に触れています。",
+     "show": "トゥスク首相は、意図的な挑発だった可能性に触れています。"
+    }
+   ],
+   "url": "https://unn.ua/en/news/in-poland-an-investigation-uncovered-fragments-of-three-russian-kh-101-missiles-instead-of-two",
+   "link": {
+    "url": "https://unn.ua/en/news/in-poland-an-investigation-uncovered-fragments-of-three-russian-kh-101-missiles-instead-of-two",
+    "title": "In Poland, an investigation uncovered fragments of three Russian Kh-101 missiles instead of two",
+    "site": "Ukrainian National News (UNN)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/H101_missile.jpg"
+   }
+  },
+  {
+   "label": "宇の国産ミサイル、量産の数字",
+   "points": [
+    "ネプチューン、今年数百発",
+    "パリャヌィツャは年1000発超",
+    "開発元の設計主任が語る"
+   ],
+   "lines": [
+    {
+     "say": "三つ目は、ウクライナの国産ミサイルの生産についてです。",
+     "show": "3つ目は、ウクライナの国産ミサイルの生産についてです。"
+    },
+    {
+     "say": "開発元のルーチ設計局のコロステリョフ氏が、アメリカのウォール・ストリート・ジャーナルに語ったと伝えられています。",
+     "show": "開発元ルーチ設計局のコロステリョフ氏が、WSJに語ったと伝えられています。"
+    },
+    {
+     "say": "それによりますと、巡航ミサイルのネプチューンは、今年末までに数百発、ただし千発未満を作る見込みです。",
+     "show": "巡航ミサイル「ネプチューン」は今年、数百発（千発未満）の見込み。"
+    },
+    {
+     "say": "ミサイル型のドローン、パリャヌィツャは、年間の生産が、すでに千発を超えたということです。",
+     "show": "ミサイル型ドローン「パリャヌィツャ」は、年に千発を超えたということです。"
+    },
+    {
+     "say": "ネプチューンの開発は二〇一〇年に始まりましたが、生産の資金が届き始めたのは、二〇二〇年の終わりごろだったとしています。",
+     "show": "開発は2010年からですが、生産資金が届いたのは2020年末ごろだとしています。"
+    },
+    {
+     "say": "コロステリョフ氏は、資金が増えれば、生産をさらに増やせると述べています。",
+     "show": "資金が増えれば、生産をさらに増やせると述べています。"
+    },
+    {
+     "say": "いずれも、開発元の当事者による説明です。",
+     "show": "いずれも、開発元の当事者による説明です。"
+    }
+   ],
+   "url": "https://militarnyi.com/en/news/ukraine-produces-hundreds-of-neptune-missiles-and-over-1-000-palianytsia-missiles-in-2026/",
+   "link": {
+    "url": "https://militarnyi.com/en/news/ukraine-produces-hundreds-of-neptune-missiles-and-over-1-000-palianytsia-missiles-in-2026/",
+    "title": "Ukraine to Produce “Hundreds” of Neptune Missiles and More Than 1,000 Palianytsia Missiles in 2026",
+    "site": "Militarnyi",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Neptune_cruise_missile_05.jpg/1280px-Neptune_cruise_missile_05.jpg"
+   }
+  },
+  {
+   "label": "バルト艦隊基地の周辺で爆発音か",
+   "points": [
+    "バルチースク周辺で報告",
+    "州知事「脅威はなかった」",
+    "被害や攻撃側は未確認"
+   ],
+   "lines": [
+    {
+     "say": "最後は、ロシアの飛び地、カリーニングラード州の話です。",
+     "show": "最後は、ロシアの飛び地、カリーニングラード州の話です。"
+    },
+    {
+     "say": "二十一日、バルト艦隊の基地があるバルチースクの周辺で、爆発音やドローンの音、防空の動きがあったと、ウクライナの監視チャンネルが伝えました。",
+     "show": "21日、バルチースク周辺で爆発音や防空の動きがあったと伝えられました。"
+    },
+    {
+     "say": "キーウ・インディペンデントは、これを独自には確かめられていないとしています。",
+     "show": "キーウ・インディペンデントは、独自には確かめられていないとしています。"
+    },
+    {
+     "say": "州知事は、リトアニアの方から不審な飛行物体が近づいたため警報を出したものの、調べた結果、脅威はなかったと説明しました。",
+     "show": "州知事は、不審な飛行物体で警報を出したが、脅威はなかったと説明。"
+    },
+    {
+     "say": "リトアニアの外相は、ロシアへの攻撃に、自国の空域を使わせたことはないと述べました。",
+     "show": "リトアニア外相は、攻撃に自国の空域を使わせたことはないと述べました。"
+    },
+    {
+     "say": "基地が狙われたのか、被害があったのか、誰が飛ばしたのかは、確認されていません。",
+     "show": "被害の有無や、誰が飛ばしたのかは確認されていません。"
+    }
+   ],
+   "url": "https://kyivindependent.com/explosions-reported-near-russian-baltic-fleet-base-in-kaliningrad-oblast-amid-drone-alerts/",
+   "link": {
+    "url": "https://kyivindependent.com/explosions-reported-near-russian-baltic-fleet-base-in-kaliningrad-oblast-amid-drone-alerts/",
+    "title": "Explosions reported near Russian Baltic Fleet base in Kaliningrad Oblast amid drone alerts",
+    "site": "The Kyiv Independent",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/BaltiyskPillau_05-2017_img07_aerial_photo.jpg/1280px-BaltiyskPillau_05-2017_img07_aerial_photo.jpg"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ],
+ "lines_timed": [
+  {
+   "start": 0.0,
+   "end": 6.72,
+   "show": "おたラジオです。11月23日月曜日、おはようございます。",
+   "part": "opening"
+  },
+  {
+   "start": 7.07,
+   "end": 11.294,
+   "show": "今日は軍事のニュースを4本、お届けします。",
+   "part": "opening"
+  },
+  {
+   "start": 11.994,
+   "end": 17.49,
+   "show": "まず、リビアの港でロシアの軍艦が燃えたニュースです。",
+   "part": "news"
+  },
+  {
+   "start": 17.84,
+   "end": 27.848,
+   "show": "リビアのベンガジ港で爆発があり、ロシア海軍のコルベットが炎上。",
+   "part": "news"
+  },
+  {
+   "start": 28.198,
+   "end": 35.878,
+   "show": "艦は2023年就役の20380型「メルクーリー」とみられています。",
+   "part": "news"
+  },
+  {
+   "start": 36.228,
+   "end": 42.108,
+   "show": "燃え尽きたのか、岸壁で沈んだのかは、はっきりしていません。",
+   "part": "news"
+  },
+  {
+   "start": 42.458,
+   "end": 46.538,
+   "show": "原因については、説明が分かれています。",
+   "part": "news"
+  },
+  {
+   "start": 46.888,
+   "end": 53.632,
+   "show": "現地当局は、陸の弾薬庫が爆発したと説明していると伝えられています。",
+   "part": "news"
+  },
+  {
+   "start": 53.982,
+   "end": 60.582,
+   "show": "一方、ウクライナの監視チャンネルは艦上で爆発が起きたとしています。",
+   "part": "news"
+  },
+  {
+   "start": 60.932,
+   "end": 65.348,
+   "show": "公式な原因は、まだ確認されていません。",
+   "part": "news"
+  },
+  {
+   "start": 66.048,
+   "end": 70.368,
+   "show": "次は、ポーランドに落ちたミサイルの続報です。",
+   "part": "news"
+  },
+  {
+   "start": 70.718,
+   "end": 84.71,
+   "show": "ルブリンの検察は、落ちた3つとも巡航ミサイルKh-101だったと発表。",
+   "part": "news"
+  },
+  {
+   "start": 85.06,
+   "end": 92.188,
+   "show": "当初、国防相は、ミサイル2発と無人機1機とみられるとしていました。",
+   "part": "news"
+  },
+  {
+   "start": 92.538,
+   "end": 99.018,
+   "show": "破片はノヴィ・リポヴィエツなど3つの村で見つかり、けが人はなし。",
+   "part": "news"
+  },
+  {
+   "start": 99.368,
+   "end": 109.784,
+   "show": "暫定的な調べでは、3発ともドゥブナで今年10月以降に作られたとみられます。",
+   "part": "news"
+  },
+  {
+   "start": 110.134,
+   "end": 115.582,
+   "show": "トゥスク首相は、意図的な挑発だった可能性に触れています。",
+   "part": "news"
+  },
+  {
+   "start": 116.282,
+   "end": 121.586,
+   "show": "3つ目は、ウクライナの国産ミサイルの生産についてです。",
+   "part": "news"
+  },
+  {
+   "start": 121.936,
+   "end": 131.224,
+   "show": "開発元ルーチ設計局のコロステリョフ氏が、WSJに語ったと伝えられています。",
+   "part": "news"
+  },
+  {
+   "start": 131.574,
+   "end": 141.294,
+   "show": "巡航ミサイル「ネプチューン」は今年、数百発（千発未満）の見込み。",
+   "part": "news"
+  },
+  {
+   "start": 141.644,
+   "end": 149.756,
+   "show": "ミサイル型ドローン「パリャヌィツャ」は、年に千発を超えたということです。",
+   "part": "news"
+  },
+  {
+   "start": 150.106,
+   "end": 160.354,
+   "show": "開発は2010年からですが、生産資金が届いたのは2020年末ごろだとしています。",
+   "part": "news"
+  },
+  {
+   "start": 160.704,
+   "end": 167.112,
+   "show": "資金が増えれば、生産をさらに増やせると述べています。",
+   "part": "news"
+  },
+  {
+   "start": 167.462,
+   "end": 172.046,
+   "show": "いずれも、開発元の当事者による説明です。",
+   "part": "news"
+  },
+  {
+   "start": 172.746,
+   "end": 178.29,
+   "show": "最後は、ロシアの飛び地、カリーニングラード州の話です。",
+   "part": "news"
+  },
+  {
+   "start": 178.64,
+   "end": 190.832,
+   "show": "21日、バルチースク周辺で爆発音や防空の動きがあったと伝えられました。",
+   "part": "news"
+  },
+  {
+   "start": 191.182,
+   "end": 197.518,
+   "show": "キーウ・インディペンデントは、独自には確かめられていないとしています。",
+   "part": "news"
+  },
+  {
+   "start": 197.868,
+   "end": 209.028,
+   "show": "州知事は、不審な飛行物体で警報を出したが、脅威はなかったと説明。",
+   "part": "news"
+  },
+  {
+   "start": 209.378,
+   "end": 217.082,
+   "show": "リトアニア外相は、攻撃に自国の空域を使わせたことはないと述べました。",
+   "part": "news"
+  },
+  {
+   "start": 217.432,
+   "end": 224.632,
+   "show": "被害の有無や、誰が飛ばしたのかは確認されていません。",
+   "part": "news"
+  },
+  {
+   "start": 225.332,
+   "end": 230.156,
+   "show": "以上、おたラジオでした。よい一日を。",
+   "part": "closing"
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": 0,
+   "start": 0.0,
+   "end": 11.294
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.994,
+   "end": 65.348
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 66.048,
+   "end": 115.582
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 116.282,
+   "end": 172.046
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 172.746,
+   "end": 224.632
+  },
+  {
+   "kind": "closing",
+   "index": 0,
+   "start": 225.332,
+   "end": 230.156
+  }
+ ],
+ "seconds": 230.16,
+ "made_at": "2026-11-23T22:17:07.840941+09:00"
+}

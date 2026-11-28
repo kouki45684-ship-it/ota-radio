@@ -1,0 +1,495 @@
+{
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "date": "2026-11-22",
+ "title": "ロシアの貨物船がドローン攻撃で炎上ほか",
+ "opening": [
+  {
+   "say": "おたラジオです。十一月二十二日日曜日、おはようございます。",
+   "show": "おたラジオです。11月22日日曜日、おはようございます。"
+  },
+  {
+   "say": "今日は軍事のニュースを五本、お届けします。",
+   "show": "今日は軍事のニュースを5本、お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "ロシア貨物船、ドローン攻撃で炎上",
+   "points": [
+    "フィンランド湾で火災",
+    "乗員16人は全員避難",
+    "攻撃した側は名乗りなし"
+   ],
+   "lines": [
+    {
+     "say": "まず、ロシアの貨物船が、ドローンに攻撃されたニュースです。",
+     "show": "まず、ロシアの貨物船がドローンに攻撃されたニュースです。"
+    },
+    {
+     "say": "二十一日朝、ロシアの貨物船スパルタ・ツーが、バルト海のフィンランド湾で、ドローンの攻撃を受けました。",
+     "show": "21日朝、貨物船スパルタIIがフィンランド湾で攻撃を受けました。"
+    },
+    {
+     "say": "攻撃があったのは、ゴーグランド島の西の海域で、船は燃え上がり、乗員十六人は全員、避難しました。",
+     "show": "ゴーグランド島の西で炎上し、乗員16人は全員避難しました。"
+    },
+    {
+     "say": "この船は、ロシア国防省の物流を担う会社の船で、過去に軍の装備を運んだことがあり、アメリカなどの制裁の対象になっています。",
+     "show": "国防省の物流を担う会社の船で、米などの制裁対象です。"
+    },
+    {
+     "say": "船はフィンランドの領海に流れ込み、フィンランドが救助を指揮しました。",
+     "show": "船はフィンランド領海に入り、フィンランドが救助を指揮。"
+    },
+    {
+     "say": "ロシア側の州知事は、ドローン二機が攻撃したとしています。",
+     "show": "ロシア側の州知事は、ドローン2機が攻撃したとしています。"
+    },
+    {
+     "say": "フィンランド軍は、ウクライナによる攻撃の可能性が高いとみています。",
+     "show": "フィンランド軍はウクライナによる攻撃の可能性が高いとみています。"
+    },
+    {
+     "say": "ウクライナ側は、関与を認めていません。",
+     "show": "ウクライナ側は関与を認めていません。"
+    }
+   ],
+   "url": "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
+   "link": {
+    "url": "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
+    "title": "Russian cargo ship hit by drones in Baltic, Finland tightens security",
+    "site": "CNBC"
+   }
+  },
+  {
+   "label": "ウクライナの攻撃ドローン、英で生産へ",
+   "points": [
+    "両国の国防相が合意に署名",
+    "費用はイギリス、完成品は宇軍へ",
+    "生産数や時期は未公表"
+   ],
+   "lines": [
+    {
+     "say": "次は、ウクライナのドローンを、イギリスで作る合意です。",
+     "show": "次は、ウクライナのドローンをイギリスで作る合意です。"
+    },
+    {
+     "say": "ウクライナ国防省の発表によりますと、二十一日、ウクライナのフメラ国防相と、イギリスのストリーティング国防相が、攻撃ドローンをイギリスで共同生産する合意に署名しました。",
+     "show": "両国の国防相が、攻撃ドローンの共同生産の合意に署名。"
+    },
+    {
+     "say": "対象は、前線の三十五キロ後ろから、三百キロ先までを狙う中距離型と、さらに遠くを狙う長距離型です。",
+     "show": "前線の35km後ろから300km先まで狙う中距離・長距離型です。"
+    },
+    {
+     "say": "生産の費用はイギリスが出し、完成したドローンは、ウクライナ軍に直接届けられます。",
+     "show": "費用はイギリスが出し、完成品はウクライナ軍へ届けられます。"
+    },
+    {
+     "say": "生産する数や工場の場所は、まだ明らかにされていません。",
+     "show": "生産数や工場の場所は、まだ明らかにされていません。"
+    },
+    {
+     "say": "あわせて、防空用のミサイルの引き渡しを、早めることも話し合われました。",
+     "show": "防空用ミサイルの引き渡しを早めることも話し合われました。"
+    }
+   ],
+   "url": "https://kyivindependent.com/uk-to-produce-middle-strike-long-range-drones-for-ukraine-in-britain/",
+   "link": {
+    "url": "https://kyivindependent.com/uk-to-produce-middle-strike-long-range-drones-for-ukraine-in-britain/",
+    "title": "UK to produce 'middle strike,' long-range drones for Ukraine in Britain",
+    "site": "The Kyiv Independent",
+    "image": "https://assets.kyivindependent.com/content/images/2026/11/photo_2026-11-21_13-10-45_20261122-011918.jpg"
+   }
+  },
+  {
+   "label": "露ドローン186機、集合住宅が崩落",
+   "points": [
+    "186機のうち161機を無力化",
+    "ディメルで集合住宅が崩落",
+    "安否不明の数は報道で食い違い"
+   ],
+   "lines": [
+    {
+     "say": "三つ目は、ロシアによる、夜のドローン攻撃です。",
+     "show": "3つ目は、ロシアによる夜のドローン攻撃です。"
+    },
+    {
+     "say": "ウクライナ空軍の発表によりますと、二十一日夕方から二十二日朝にかけて、ロシアは攻撃ドローン百八十六機を発射しました。",
+     "show": "空軍の発表では、ロシアはドローン186機を発射。"
+    },
+    {
+     "say": "そのうち百六十一機を、撃墜するか、電子妨害で無力化したとしています。",
+     "show": "うち161機を撃墜・無力化したとしています。"
+    },
+    {
+     "say": "一方、キーウ近郊のディメルでは、五階建ての集合住宅の一部が崩れ、十六歳の少年と二十二歳の女性が、けがをしました。",
+     "show": "キーウ近郊ディメルでは集合住宅の一部が崩れ、2人がけが。"
+    },
+    {
+     "say": "がれきの下にいる可能性のある人の数は、報道によって異なります。",
+     "show": "安否が分からない人の数は、報道によって異なります。"
+    },
+    {
+     "say": "ゼレンスキー大統領は、この一週間で、ロシアがドローンおよそ二千七百機を使ったと述べています。",
+     "show": "大統領は、この1週間でドローン約2,700機が使われたと述べています。"
+    },
+    {
+     "say": "そして、弾道ミサイルを止める迎撃弾を、早く届けるよう、アメリカに求めました。",
+     "show": "迎撃弾を早く届けるよう、アメリカに求めました。"
+    }
+   ],
+   "url": "https://www.ukrinform.net/rubric-ato/4187288-air-defenses-down-161-of-186-russian-drones-launched-against-ukraine-since-evening.html",
+   "link": {
+    "url": "https://www.ukrinform.net/rubric-ato/4187288-air-defenses-down-161-of-186-russian-drones-launched-against-ukraine-since-evening.html",
+    "title": "Air defenses down 161 of 186 Russian drones launched against Ukraine since evening",
+    "site": "Ukrinform",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dymer_lib.JPG"
+   }
+  },
+  {
+   "label": "クリミア大橋、国産ミサイルで攻撃",
+   "points": [
+    "フラミンゴとネプチューン使用",
+    "撤去に最長1年と国防相",
+    "被害の見方はウクライナ側の発表"
+   ],
+   "lines": [
+    {
+     "say": "四つ目は、クリミア大橋への攻撃についてです。",
+     "show": "4つ目は、クリミア大橋への攻撃についてです。"
+    },
+    {
+     "say": "ウクライナ側の説明によりますと、今月十七日の攻撃では、国産のミサイル、フラミンゴとネプチューンを使ったということです。",
+     "show": "ウクライナ側は、国産ミサイル「フラミンゴ」と「ネプチューン」を使ったと説明。"
+    },
+    {
+     "say": "道路橋の一部が海に落ち、鉄道の部分も傷ついて、崩れた部分が、船の通り道をふさいでいます。",
+     "show": "道路橋の一部が海に落ち、船の通り道をふさいでいます。"
+    },
+    {
+     "say": "フメラ国防相は、ロシアが崩れた部分を取り除くのに、数か月から一年かかるとの見方を示しました。",
+     "show": "国防相は、撤去に数か月から1年かかるとの見方を示しました。"
+    },
+    {
+     "say": "ただし、これはウクライナ側の見方で、ロシア側の発表は、確認できていません。",
+     "show": "ウクライナ側の見方で、ロシア側の発表は確認できていません。"
+    }
+   ],
+   "url": "https://kyivindependent.com/russia-could-take-a-year-to-clear-collapsed-crimean-bridge-section-ukraines-defense-minister-says/",
+   "link": {
+    "url": "https://kyivindependent.com/russia-could-take-a-year-to-clear-collapsed-crimean-bridge-section-ukraines-defense-minister-says/",
+    "title": "Russia may need a year to clear collapsed Crimean Bridge section, Ukraine says",
+    "site": "The Kyiv Independent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kerch_Strait_Bridge%2C_2018-04-14.jpg"
+   }
+  },
+  {
+   "label": "グリペン、悪天候で撃墜できず",
+   "points": [
+    "撃墜の許可は出ていた",
+    "悪天候で目標を確認できず",
+    "NATOが23日に協議"
+   ],
+   "lines": [
+    {
+     "say": "最後は、ポーランド上空のミサイルをめぐる話です。",
+     "show": "最後は、ポーランド上空のミサイルをめぐる話です。"
+    },
+    {
+     "say": "二十日のロシアの大規模攻撃の際、ポーランド上空に入った目標について、撃ち落とす許可が出ていたということです。",
+     "show": "ポーランド上空の目標に、撃墜の許可が出ていたということです。"
+    },
+    {
+     "say": "ポーランド軍の作戦司令官が、ポーランドの新聞に明らかにしました。",
+     "show": "ポーランド軍の作戦司令官が、新聞に明らかにしました。"
+    },
+    {
+     "say": "警戒にあたっていた、スウェーデン軍のグリペン戦闘機のパイロットは、悪天候で目標を確かめられず、発射しなかったということです。",
+     "show": "グリペンのパイロットは、悪天候で目標を確かめられず撃ちませんでした。"
+    },
+    {
+     "say": "目標は、ロシアの巡航ミサイル、ケーエイチ・ヒャクイチとみられています。",
+     "show": "目標は、ロシアの巡航ミサイルKh-101とみられています。"
+    },
+    {
+     "say": "ナトーは、二十三日に、この件を話し合う予定です。",
+     "show": "NATOは23日に、この件を話し合う予定です。"
+    }
+   ],
+   "url": "https://kyivindependent.com/swedish-gripen-pilot-unable-to-shoot-down-suspected-russian-missile-over-poland-due-to-poor-weather-commander-says/",
+   "link": {
+    "url": "https://kyivindependent.com/swedish-gripen-pilot-unable-to-shoot-down-suspected-russian-missile-over-poland-due-to-poor-weather-commander-says/",
+    "title": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
+    "site": "The Kyiv Independent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg"
+   }
+  }
+ ],
+ "highlight": 1,
+ "closing": [
+  {
+   "say": "以上、おたラジオでした。よい一日を。",
+   "show": "以上、おたラジオでした。よい一日を。"
+  }
+ ],
+ "lines_timed": [
+  {
+   "start": 0.0,
+   "end": 6.648,
+   "show": "おたラジオです。11月22日日曜日、おはようございます。",
+   "part": "opening"
+  },
+  {
+   "start": 6.998,
+   "end": 11.102,
+   "show": "今日は軍事のニュースを5本、お届けします。",
+   "part": "opening"
+  },
+  {
+   "start": 11.802,
+   "end": 17.442,
+   "show": "まず、ロシアの貨物船がドローンに攻撃されたニュースです。",
+   "part": "news"
+  },
+  {
+   "start": 17.792,
+   "end": 27.152,
+   "show": "21日朝、貨物船スパルタIIがフィンランド湾で攻撃を受けました。",
+   "part": "news"
+  },
+  {
+   "start": 27.502,
+   "end": 37.198,
+   "show": "ゴーグランド島の西で炎上し、乗員16人は全員避難しました。",
+   "part": "news"
+  },
+  {
+   "start": 37.548,
+   "end": 48.996,
+   "show": "国防省の物流を担う会社の船で、米などの制裁対象です。",
+   "part": "news"
+  },
+  {
+   "start": 49.346,
+   "end": 55.466,
+   "show": "船はフィンランド領海に入り、フィンランドが救助を指揮。",
+   "part": "news"
+  },
+  {
+   "start": 55.816,
+   "end": 61.192,
+   "show": "ロシア側の州知事は、ドローン2機が攻撃したとしています。",
+   "part": "news"
+  },
+  {
+   "start": 61.542,
+   "end": 67.446,
+   "show": "フィンランド軍はウクライナによる攻撃の可能性が高いとみています。",
+   "part": "news"
+  },
+  {
+   "start": 67.796,
+   "end": 71.804,
+   "show": "ウクライナ側は関与を認めていません。",
+   "part": "news"
+  },
+  {
+   "start": 72.504,
+   "end": 77.736,
+   "show": "次は、ウクライナのドローンをイギリスで作る合意です。",
+   "part": "news"
+  },
+  {
+   "start": 78.086,
+   "end": 92.894,
+   "show": "両国の国防相が、攻撃ドローンの共同生産の合意に署名。",
+   "part": "news"
+  },
+  {
+   "start": 93.244,
+   "end": 103.372,
+   "show": "前線の35km後ろから300km先まで狙う中距離・長距離型です。",
+   "part": "news"
+  },
+  {
+   "start": 103.722,
+   "end": 111.402,
+   "show": "費用はイギリスが出し、完成品はウクライナ軍へ届けられます。",
+   "part": "news"
+  },
+  {
+   "start": 111.752,
+   "end": 117.392,
+   "show": "生産数や工場の場所は、まだ明らかにされていません。",
+   "part": "news"
+  },
+  {
+   "start": 117.742,
+   "end": 124.342,
+   "show": "防空用ミサイルの引き渡しを早めることも話し合われました。",
+   "part": "news"
+  },
+  {
+   "start": 125.042,
+   "end": 129.818,
+   "show": "3つ目は、ロシアによる夜のドローン攻撃です。",
+   "part": "news"
+  },
+  {
+   "start": 130.168,
+   "end": 141.496,
+   "show": "空軍の発表では、ロシアはドローン186機を発射。",
+   "part": "news"
+  },
+  {
+   "start": 141.846,
+   "end": 148.854,
+   "show": "うち161機を撃墜・無力化したとしています。",
+   "part": "news"
+  },
+  {
+   "start": 149.204,
+   "end": 160.676,
+   "show": "キーウ近郊ディメルでは集合住宅の一部が崩れ、2人がけが。",
+   "part": "news"
+  },
+  {
+   "start": 161.026,
+   "end": 166.882,
+   "show": "安否が分からない人の数は、報道によって異なります。",
+   "part": "news"
+  },
+  {
+   "start": 167.232,
+   "end": 175.68,
+   "show": "大統領は、この1週間でドローン約2,700機が使われたと述べています。",
+   "part": "news"
+  },
+  {
+   "start": 176.03,
+   "end": 183.542,
+   "show": "迎撃弾を早く届けるよう、アメリカに求めました。",
+   "part": "news"
+  },
+  {
+   "start": 184.242,
+   "end": 188.898,
+   "show": "4つ目は、クリミア大橋への攻撃についてです。",
+   "part": "news"
+  },
+  {
+   "start": 189.248,
+   "end": 199.856,
+   "show": "ウクライナ側は、国産ミサイル「フラミンゴ」と「ネプチューン」を使ったと説明。",
+   "part": "news"
+  },
+  {
+   "start": 200.206,
+   "end": 209.254,
+   "show": "道路橋の一部が海に落ち、船の通り道をふさいでいます。",
+   "part": "news"
+  },
+  {
+   "start": 209.604,
+   "end": 218.388,
+   "show": "国防相は、撤去に数か月から1年かかるとの見方を示しました。",
+   "part": "news"
+  },
+  {
+   "start": 218.738,
+   "end": 226.01,
+   "show": "ウクライナ側の見方で、ロシア側の発表は確認できていません。",
+   "part": "news"
+  },
+  {
+   "start": 226.71,
+   "end": 231.606,
+   "show": "最後は、ポーランド上空のミサイルをめぐる話です。",
+   "part": "news"
+  },
+  {
+   "start": 231.956,
+   "end": 241.364,
+   "show": "ポーランド上空の目標に、撃墜の許可が出ていたということです。",
+   "part": "news"
+  },
+  {
+   "start": 241.714,
+   "end": 248.05,
+   "show": "ポーランド軍の作戦司令官が、新聞に明らかにしました。",
+   "part": "news"
+  },
+  {
+   "start": 248.4,
+   "end": 259.008,
+   "show": "グリペンのパイロットは、悪天候で目標を確かめられず撃ちませんでした。",
+   "part": "news"
+  },
+  {
+   "start": 259.358,
+   "end": 265.91,
+   "show": "目標は、ロシアの巡航ミサイルKh-101とみられています。",
+   "part": "news"
+  },
+  {
+   "start": 266.26,
+   "end": 271.732,
+   "show": "NATOは23日に、この件を話し合う予定です。",
+   "part": "news"
+  },
+  {
+   "start": 272.432,
+   "end": 277.256,
+   "show": "以上、おたラジオでした。よい一日を。",
+   "part": "closing"
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": 0,
+   "start": 0.0,
+   "end": 11.102
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.802,
+   "end": 71.804
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 72.504,
+   "end": 124.342
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 125.042,
+   "end": 183.542
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 184.242,
+   "end": 226.01
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 226.71,
+   "end": 271.732
+  },
+  {
+   "kind": "closing",
+   "index": 0,
+   "start": 272.432,
+   "end": 277.256
+  }
+ ],
+ "seconds": 277.26,
+ "made_at": "2026-11-23T07:53:06.849222+09:00"
+}
